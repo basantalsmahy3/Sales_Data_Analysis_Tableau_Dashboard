@@ -14,25 +14,23 @@ This project develops an **interactive Tableau dashboard** to analyze and visual
 - Developed maps visualizing sales by region.  
 - Added filters and interactive elements for dynamic exploration.  
 - Designed a professional and user-friendly dashboard highlighting most profitable regions.  
-- Delivered a report summarizing insights and findings.
+- Delivered visual reports summarizing insights and findings.
 
 ## Project Structure
 - `data/` → datasets used for analysis  
-  - `.gitkeep` → placeholder file  
   - `tableau_task_countries_1000rows.csv` → sample sales dataset  
 - `images/` → supporting visualizations and reports  
-  - `.gitkeep` → placeholder file  
-  - `Tableau Task.pdf` → report with charts and insights  
+  - `Sales Report.png`  
+  - `Sales Report2.png`  
 - `videos/` → video demonstration of dashboard  
-  - `.gitkeep` → placeholder file  
   - `lv_0_٢٠٢٥١١٢٦١٢٥٩٤٤.mp4` → dashboard walkthrough  
 - `README.md` → project overview and instructions  
 
 ## How to Explore
-1. Open the dataset in `data/` (`tableau_task_countries_1000rows.csv`) to explore raw data.  
-2. Review the report in `images/Tableau Task.pdf` to see charts and visual insights.  
+1. Open the dataset in `data/tableau_task_countries_1000rows.csv` to explore raw data.  
+2. Review the images in `images/` to see visual insights and charts.  
 3. Watch the dashboard demo in `videos/lv_0_٢٠٢٥١١٢٦١٢٥٩٤٤.mp4` to see interactive features.  
-4. Optionally, use Tableau to open your own version of the dashboard for further exploration.
+4. Optionally, open Tableau and recreate or explore your own version of the dashboard.
 
 ## Example Insights
 - Best-performing product categories  
@@ -41,5 +39,6 @@ This project develops an **interactive Tableau dashboard** to analyze and visual
 - Interactive filtering for in-depth analysis
 
 ## Visual Examples
-![Tableau Task Report](images/Tableau Task.pdf)
-*Figure: Report with key charts and dashboard insights.*
+![Sales Report](images/Sales Report.png)  
+![Sales Report 2](images/Sales Report2.png)
+*Figures: Key charts and dashboard insights.*
