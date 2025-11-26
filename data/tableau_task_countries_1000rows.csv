@@ -1,0 +1,1001 @@
+﻿Order ID,Product Name,Category,Sub-Category,Sales,Quantity,Profit,Region,Order Date
+10001,Chair,Technology,Copiers,2007.95,19,547.2,Qatar,2020-05-23
+10002,Monitor,Furniture,Bookcases,4874.76,4,346.48,Jordan,2021-01-18
+10003,Phone,Technology,Copiers,3623.34,7,912.35,Kuwait,2020-08-04
+10004,Notebook,Technology,Copiers,3302.07,4,876.14,Jordan,2024-02-24
+10005,Pen,Furniture,Furnishings,3797.44,12,965.74,Kuwait,2024-01-30
+10006,Chair,Furniture,Chairs,4765.61,13,849.14,Saudi Arabia,2024-06-23
+10007,Printer,Technology,Machines,4543.7,3,725.16,Qatar,2023-03-13
+10008,Desk,Office Supplies,Binders,3635.21,12,1087.17,Qatar,2020-04-20
+10009,Desk,Technology,Machines,3758.35,2,403.24,Oman,2022-10-10
+10010,Tablet,Technology,Machines,772.31,2,144.2,Egypt,2020-08-19
+10011,Tablet,Technology,Copiers,558.82,9,121.64,Morocco,2024-09-10
+10012,Desk,Technology,Machines,2875.98,1,647.72,United Arab Emirates,2024-10-21
+10013,Camera,Furniture,Bookcases,140.92,8,14.23,Egypt,2024-04-26
+10014,Notebook,Technology,Accessories,2437.66,6,520.44,Qatar,2023-07-20
+10015,Notebook,Office Supplies,Paper,1091.23,6,277.82,Egypt,2022-08-30
+10016,Laptop,Furniture,Tables,1762.78,18,110.18,Saudi Arabia,2022-10-27
+10017,Chair,Office Supplies,Storage,3890.23,17,1081.02,Morocco,2021-06-01
+10018,Pen,Office Supplies,Paper,4709.13,12,270.19,Oman,2022-07-02
+10019,Desk,Office Supplies,Binders,408.46,6,56.77,Qatar,2025-04-28
+10020,Chair,Office Supplies,Storage,2694.5,8,145.38,Qatar,2024-01-02
+10021,Notebook,Furniture,Furnishings,4418.54,19,306.14,United Arab Emirates,2025-02-15
+10022,Monitor,Furniture,Tables,458.42,10,127.35,Oman,2023-07-31
+10023,Desk,Office Supplies,Storage,4131.34,1,573.08,Oman,2022-06-17
+10024,Chair,Office Supplies,Appliances,1821.12,13,284.45,Kuwait,2023-01-03
+10025,Notebook,Furniture,Furnishings,1644.37,17,170.74,Morocco,2023-04-04
+10026,Phone,Furniture,Chairs,4888.46,3,974.14,Saudi Arabia,2023-04-27
+10027,Notebook,Furniture,Tables,1044.25,8,207.49,Jordan,2025-10-26
+10028,Tablet,Technology,Accessories,3481.31,14,498.0,Egypt,2021-11-18
+10029,Printer,Technology,Accessories,4116.13,3,548.51,Oman,2025-08-30
+10030,Camera,Technology,Machines,253.86,16,68.86,United Arab Emirates,2021-07-19
+10031,Camera,Office Supplies,Storage,3368.41,13,491.19,Qatar,2023-04-22
+10032,Tablet,Technology,Machines,4760.17,17,825.3,Jordan,2025-03-09
+10033,Tablet,Office Supplies,Paper,664.89,13,80.34,Saudi Arabia,2022-04-06
+10034,Desk,Office Supplies,Art,4486.3,6,1106.74,Morocco,2023-09-13
+10035,Phone,Technology,Phones,2994.14,17,447.21,Oman,2024-12-16
+10036,Phone,Office Supplies,Art,3102.19,14,553.44,Egypt,2022-12-18
+10037,Desk,Technology,Copiers,3084.07,17,349.55,Oman,2023-09-12
+10038,Chair,Technology,Phones,1529.24,8,454.05,United Arab Emirates,2024-07-02
+10039,Desk,Furniture,Tables,4679.25,11,574.96,Oman,2020-07-09
+10040,Pen,Technology,Accessories,4739.38,1,1150.18,Oman,2023-05-08
+10041,Pen,Furniture,Furnishings,3145.26,7,493.41,Oman,2023-08-28
+10042,Camera,Technology,Accessories,3927.94,17,398.9,Qatar,2021-12-08
+10043,Notebook,Technology,Phones,3080.68,10,769.95,Qatar,2021-01-13
+10044,Desk,Furniture,Tables,2447.77,11,326.54,Jordan,2021-01-21
+10045,Desk,Furniture,Bookcases,3321.06,9,884.39,Jordan,2021-09-07
+10046,Chair,Technology,Copiers,2787.36,9,777.16,Egypt,2024-03-22
+10047,Laptop,Office Supplies,Art,3007.51,5,796.86,Morocco,2025-08-10
+10048,Camera,Furniture,Chairs,3929.97,17,230.89,Saudi Arabia,2024-10-20
+10049,Camera,Office Supplies,Storage,2430.47,9,599.95,Kuwait,2021-04-08
+10050,Camera,Office Supplies,Storage,251.73,17,38.47,Morocco,2022-08-24
+10051,Notebook,Office Supplies,Paper,861.8,19,231.33,Morocco,2020-06-20
+10052,Tablet,Furniture,Tables,2221.11,7,465.3,Morocco,2023-02-20
+10053,Monitor,Office Supplies,Binders,3637.89,9,940.07,Kuwait,2022-04-22
+10054,Laptop,Furniture,Furnishings,2986.73,7,522.25,Egypt,2023-08-14
+10055,Notebook,Office Supplies,Binders,3268.96,13,600.69,Kuwait,2025-03-23
+10056,Pen,Technology,Phones,2422.43,11,208.56,Egypt,2021-11-20
+10057,Chair,Technology,Copiers,3097.92,14,762.08,Kuwait,2024-02-16
+10058,Tablet,Furniture,Tables,1678.64,19,259.93,Saudi Arabia,2025-07-17
+10059,Pen,Technology,Machines,2377.4,11,416.09,Oman,2024-09-18
+10060,Tablet,Technology,Accessories,3734.18,13,919.63,Morocco,2021-01-17
+10061,Phone,Office Supplies,Appliances,4365.57,14,871.85,Oman,2023-11-13
+10062,Camera,Furniture,Furnishings,2196.59,13,220.26,Egypt,2024-05-02
+10063,Tablet,Office Supplies,Binders,266.13,1,52.58,Kuwait,2025-08-12
+10064,Printer,Office Supplies,Art,850.28,8,129.16,Saudi Arabia,2021-01-06
+10065,Camera,Office Supplies,Paper,153.26,12,25.65,Kuwait,2024-09-06
+10066,Camera,Office Supplies,Appliances,3283.65,19,187.42,Oman,2024-01-09
+10067,Chair,Office Supplies,Paper,1694.96,12,173.75,Qatar,2021-09-02
+10068,Laptop,Office Supplies,Paper,2735.27,8,328.94,Saudi Arabia,2020-04-25
+10069,Pen,Office Supplies,Paper,2491.72,8,568.71,Morocco,2021-03-22
+10070,Tablet,Furniture,Bookcases,453.56,13,23.98,United Arab Emirates,2023-10-23
+10071,Tablet,Technology,Copiers,2046.14,12,311.41,Morocco,2023-09-02
+10072,Phone,Office Supplies,Storage,1141.78,16,320.85,United Arab Emirates,2021-02-18
+10073,Camera,Office Supplies,Paper,2121.08,1,165.38,Saudi Arabia,2024-12-13
+10074,Desk,Office Supplies,Appliances,1057.71,13,189.44,Qatar,2022-11-13
+10075,Monitor,Office Supplies,Art,4210.24,7,1038.37,Oman,2025-02-16
+10076,Desk,Office Supplies,Art,912.26,5,260.57,Qatar,2022-12-09
+10077,Tablet,Office Supplies,Binders,4805.86,8,1137.52,Egypt,2021-12-18
+10078,Desk,Technology,Accessories,2108.74,14,485.31,Qatar,2023-09-20
+10079,Chair,Technology,Phones,4238.91,13,1087.8,Jordan,2024-05-24
+10080,Printer,Office Supplies,Storage,3162.39,15,510.89,Saudi Arabia,2021-07-15
+10081,Tablet,Technology,Phones,3689.98,17,927.89,Oman,2021-01-21
+10082,Tablet,Furniture,Tables,3850.23,15,200.18,Oman,2021-12-02
+10083,Printer,Office Supplies,Art,2548.98,18,716.62,Egypt,2022-08-30
+10084,Pen,Furniture,Bookcases,2739.34,18,440.56,Oman,2023-10-16
+10085,Printer,Furniture,Bookcases,2594.28,2,488.62,Qatar,2022-09-10
+10086,Desk,Office Supplies,Paper,2960.89,4,336.71,Saudi Arabia,2024-02-20
+10087,Chair,Technology,Machines,195.5,1,46.07,Morocco,2020-12-17
+10088,Phone,Furniture,Furnishings,2007.8,4,138.86,Qatar,2024-09-20
+10089,Pen,Office Supplies,Art,3050.63,18,818.05,Kuwait,2025-05-05
+10090,Notebook,Furniture,Furnishings,3008.73,5,773.33,United Arab Emirates,2023-07-03
+10091,Phone,Furniture,Chairs,3975.13,19,413.47,Saudi Arabia,2025-03-22
+10092,Laptop,Furniture,Furnishings,3292.3,15,830.75,Oman,2022-01-22
+10093,Laptop,Furniture,Bookcases,4961.06,8,1223.34,Egypt,2022-10-21
+10094,Laptop,Technology,Phones,1455.08,17,302.74,Morocco,2021-06-29
+10095,Laptop,Furniture,Chairs,1827.8,1,262.07,Jordan,2024-01-09
+10096,Chair,Furniture,Tables,1950.04,12,229.86,Morocco,2020-03-19
+10097,Phone,Furniture,Furnishings,2355.77,19,254.3,Qatar,2023-06-13
+10098,Camera,Technology,Accessories,4188.19,15,543.01,United Arab Emirates,2022-06-07
+10099,Monitor,Furniture,Bookcases,1217.17,9,335.8,Morocco,2023-01-10
+10100,Pen,Furniture,Chairs,3891.2,7,270.09,Jordan,2025-06-13
+10101,Notebook,Technology,Phones,2056.29,2,528.91,Kuwait,2024-02-09
+10102,Desk,Technology,Phones,3029.18,9,415.67,Egypt,2022-07-09
+10103,Tablet,Technology,Copiers,3181.08,10,573.87,Saudi Arabia,2021-07-03
+10104,Laptop,Furniture,Bookcases,1895.6,2,471.29,United Arab Emirates,2025-08-23
+10105,Notebook,Technology,Accessories,2587.45,19,701.44,Jordan,2021-01-26
+10106,Tablet,Technology,Accessories,2094.5,11,285.26,Oman,2023-10-12
+10107,Monitor,Furniture,Tables,392.21,13,64.9,Qatar,2022-08-31
+10108,Notebook,Technology,Machines,2213.97,10,340.13,Qatar,2020-12-05
+10109,Phone,Furniture,Chairs,532.1,14,28.37,Qatar,2022-01-26
+10110,Notebook,Office Supplies,Appliances,2054.85,18,254.77,Oman,2022-11-11
+10111,Laptop,Technology,Accessories,2984.95,19,491.91,Oman,2022-07-27
+10112,Monitor,Office Supplies,Paper,2918.1,9,445.81,United Arab Emirates,2022-04-27
+10113,Desk,Furniture,Tables,3329.98,7,767.5,Morocco,2021-03-17
+10114,Camera,Technology,Machines,521.54,3,76.25,United Arab Emirates,2020-05-09
+10115,Printer,Furniture,Furnishings,3278.01,6,564.95,Qatar,2021-08-19
+10116,Laptop,Office Supplies,Storage,1595.13,2,251.08,Kuwait,2025-05-12
+10117,Tablet,Furniture,Chairs,2025.28,6,476.26,Jordan,2024-02-14
+10118,Monitor,Technology,Accessories,4297.03,3,1141.91,Saudi Arabia,2022-05-11
+10119,Phone,Technology,Phones,94.7,16,17.33,Saudi Arabia,2022-09-25
+10120,Chair,Office Supplies,Paper,2962.64,8,732.83,United Arab Emirates,2024-03-31
+10121,Monitor,Furniture,Chairs,3013.63,2,374.28,Qatar,2024-06-28
+10122,Tablet,Technology,Phones,2013.47,17,373.18,Oman,2024-02-20
+10123,Printer,Office Supplies,Paper,1223.29,9,166.74,Egypt,2024-10-02
+10124,Printer,Technology,Copiers,1211.64,12,186.05,Kuwait,2023-12-20
+10125,Pen,Technology,Copiers,4424.36,3,1031.33,United Arab Emirates,2025-01-31
+10126,Camera,Furniture,Tables,2238.02,11,605.2,Qatar,2020-09-21
+10127,Tablet,Technology,Accessories,1687.9,1,135.66,Morocco,2024-01-02
+10128,Printer,Furniture,Chairs,2271.45,13,473.96,Saudi Arabia,2020-06-05
+10129,Pen,Technology,Machines,3363.48,15,657.68,Saudi Arabia,2023-12-16
+10130,Pen,Office Supplies,Storage,771.5,5,61.41,Kuwait,2024-06-20
+10131,Pen,Technology,Copiers,2274.7,17,234.23,Saudi Arabia,2022-06-13
+10132,Monitor,Furniture,Bookcases,2960.03,6,378.15,Egypt,2021-05-27
+10133,Pen,Furniture,Tables,4745.49,11,435.32,Qatar,2020-08-03
+10134,Laptop,Office Supplies,Storage,1300.01,18,144.21,Qatar,2024-09-02
+10135,Tablet,Technology,Copiers,1828.29,4,213.73,Kuwait,2025-10-07
+10136,Laptop,Technology,Copiers,1927.83,3,258.17,Qatar,2024-04-16
+10137,Chair,Office Supplies,Binders,3047.41,13,723.3,Oman,2023-02-02
+10138,Printer,Technology,Machines,1815.82,9,350.41,Kuwait,2020-08-15
+10139,Camera,Technology,Machines,2690.88,6,798.01,Qatar,2024-01-27
+10140,Pen,Furniture,Bookcases,3919.86,12,602.42,Egypt,2022-03-12
+10141,Phone,Technology,Copiers,3541.66,2,844.57,Jordan,2024-06-10
+10142,Phone,Technology,Phones,2259.52,3,605.25,United Arab Emirates,2025-03-20
+10143,Printer,Office Supplies,Paper,4327.87,3,951.03,United Arab Emirates,2021-04-16
+10144,Chair,Office Supplies,Art,2812.79,12,430.26,Qatar,2022-12-15
+10145,Phone,Furniture,Tables,2722.53,15,649.05,Morocco,2025-08-22
+10146,Laptop,Technology,Copiers,219.23,9,22.12,Saudi Arabia,2022-11-07
+10147,Notebook,Technology,Copiers,4934.13,8,650.75,Egypt,2020-08-16
+10148,Monitor,Technology,Machines,658.71,11,122.96,Morocco,2020-06-19
+10149,Desk,Furniture,Chairs,1194.1,16,231.48,Oman,2020-10-21
+10150,Phone,Furniture,Tables,305.9,4,16.99,Morocco,2020-07-07
+10151,Camera,Office Supplies,Paper,3218.01,1,921.25,Qatar,2021-03-01
+10152,Pen,Furniture,Chairs,1162.27,7,260.53,Egypt,2022-09-03
+10153,Camera,Technology,Phones,941.05,2,163.67,United Arab Emirates,2023-01-07
+10154,Tablet,Technology,Phones,488.35,5,138.34,Saudi Arabia,2022-07-07
+10155,Monitor,Furniture,Bookcases,561.38,7,89.69,United Arab Emirates,2021-05-13
+10156,Laptop,Technology,Copiers,2944.12,4,868.84,Morocco,2024-12-26
+10157,Chair,Technology,Phones,3456.63,5,615.53,Oman,2022-05-15
+10158,Monitor,Furniture,Tables,2017.03,1,158.48,Saudi Arabia,2022-04-05
+10159,Desk,Furniture,Furnishings,2425.49,1,585.03,Jordan,2025-02-01
+10160,Notebook,Technology,Accessories,3445.54,15,757.07,Morocco,2025-10-19
+10161,Phone,Technology,Accessories,136.03,19,33.09,United Arab Emirates,2020-05-25
+10162,Chair,Technology,Accessories,1649.5,10,474.83,United Arab Emirates,2024-06-29
+10163,Chair,Office Supplies,Appliances,4866.83,18,1188.1,Qatar,2023-08-12
+10164,Phone,Office Supplies,Storage,2921.56,3,592.59,United Arab Emirates,2021-04-14
+10165,Phone,Office Supplies,Binders,1308.41,11,345.85,Egypt,2020-07-11
+10166,Phone,Furniture,Chairs,2632.56,15,574.72,Morocco,2022-12-27
+10167,Phone,Office Supplies,Appliances,1746.13,11,265.46,Kuwait,2020-02-21
+10168,Phone,Furniture,Bookcases,2684.61,17,728.62,Kuwait,2024-12-25
+10169,Chair,Furniture,Bookcases,672.42,17,70.92,Oman,2025-02-12
+10170,Printer,Office Supplies,Art,706.94,6,161.65,Saudi Arabia,2024-11-21
+10171,Printer,Office Supplies,Appliances,760.53,5,205.64,United Arab Emirates,2023-12-25
+10172,Camera,Office Supplies,Art,4702.11,8,1094.79,Qatar,2025-02-10
+10173,Printer,Technology,Machines,3677.85,2,825.01,Qatar,2025-06-30
+10174,Desk,Office Supplies,Appliances,853.79,16,203.34,United Arab Emirates,2023-12-05
+10175,Printer,Technology,Machines,982.33,12,163.33,Egypt,2022-04-19
+10176,Chair,Furniture,Chairs,3667.61,6,984.91,Qatar,2020-08-28
+10177,Phone,Technology,Phones,823.01,1,83.01,Kuwait,2021-06-19
+10178,Pen,Office Supplies,Art,1211.08,4,99.12,Saudi Arabia,2023-11-08
+10179,Pen,Furniture,Furnishings,4818.57,17,584.86,Morocco,2020-03-23
+10180,Desk,Furniture,Chairs,1313.77,13,240.28,Jordan,2022-09-08
+10181,Tablet,Furniture,Tables,3325.08,18,590.67,Egypt,2022-08-08
+10182,Chair,Technology,Copiers,4894.22,5,1248.76,Oman,2021-09-02
+10183,Laptop,Office Supplies,Storage,1902.77,3,287.59,Oman,2021-07-27
+10184,Monitor,Furniture,Bookcases,136.7,11,23.39,Qatar,2022-09-15
+10185,Camera,Furniture,Furnishings,1258.53,13,67.13,Morocco,2021-04-03
+10186,Laptop,Furniture,Furnishings,4162.84,4,634.56,Jordan,2024-03-02
+10187,Chair,Technology,Accessories,4329.81,14,917.68,Oman,2025-06-07
+10188,Printer,Technology,Copiers,3854.17,11,207.65,United Arab Emirates,2024-04-15
+10189,Phone,Office Supplies,Storage,609.89,10,73.32,United Arab Emirates,2020-05-01
+10190,Laptop,Technology,Phones,3987.78,19,406.71,Saudi Arabia,2020-09-29
+10191,Monitor,Furniture,Furnishings,4597.46,18,278.13,Jordan,2023-08-10
+10192,Tablet,Office Supplies,Storage,3023.02,6,513.35,United Arab Emirates,2021-02-01
+10193,Pen,Furniture,Tables,4707.33,15,449.22,Oman,2022-09-11
+10194,Tablet,Furniture,Tables,4142.85,10,976.76,United Arab Emirates,2023-05-15
+10195,Monitor,Technology,Machines,3351.51,5,878.04,Kuwait,2023-02-07
+10196,Phone,Office Supplies,Binders,2907.07,5,541.87,Qatar,2023-07-25
+10197,Printer,Technology,Accessories,1775.44,10,524.51,Oman,2025-03-25
+10198,Monitor,Technology,Copiers,838.47,5,136.35,Oman,2024-02-14
+10199,Camera,Office Supplies,Art,3044.52,3,542.97,Oman,2025-03-31
+10200,Monitor,Furniture,Tables,1624.65,6,483.02,Saudi Arabia,2022-03-30
+10201,Chair,Furniture,Chairs,4338.87,4,468.11,Morocco,2025-05-10
+10202,Printer,Office Supplies,Binders,4967.02,18,1418.76,Oman,2020-06-27
+10203,Phone,Furniture,Chairs,3774.52,9,229.15,United Arab Emirates,2022-06-15
+10204,Pen,Office Supplies,Paper,497.88,17,80.46,Kuwait,2025-05-26
+10205,Pen,Office Supplies,Art,1478.99,13,99.83,Oman,2024-03-31
+10206,Monitor,Technology,Copiers,590.09,15,137.08,Egypt,2021-05-06
+10207,Chair,Office Supplies,Art,3270.03,17,660.88,Egypt,2020-03-01
+10208,Laptop,Technology,Machines,3837.69,13,869.85,Morocco,2022-12-13
+10209,Tablet,Furniture,Furnishings,4632.09,16,665.26,Jordan,2024-08-30
+10210,Tablet,Furniture,Furnishings,2218.95,4,315.91,Saudi Arabia,2020-03-05
+10211,Tablet,Furniture,Furnishings,4511.81,5,276.71,Kuwait,2021-08-08
+10212,Laptop,Furniture,Chairs,4395.56,5,604.33,Qatar,2024-09-23
+10213,Chair,Technology,Machines,1620.12,9,457.4,Kuwait,2021-06-18
+10214,Tablet,Furniture,Chairs,4351.06,17,630.06,Egypt,2025-02-13
+10215,Camera,Office Supplies,Binders,1909.58,13,492.37,Egypt,2022-10-01
+10216,Laptop,Office Supplies,Paper,1519.5,2,395.95,Morocco,2023-05-14
+10217,Laptop,Office Supplies,Art,3262.92,13,467.61,Jordan,2022-11-05
+10218,Phone,Technology,Copiers,1675.49,19,348.5,Jordan,2020-11-22
+10219,Phone,Furniture,Tables,3169.53,3,234.05,Morocco,2021-08-30
+10220,Printer,Furniture,Chairs,3068.67,10,232.97,Oman,2020-01-02
+10221,Camera,Furniture,Tables,2839.02,2,176.49,Kuwait,2022-10-30
+10222,Camera,Technology,Copiers,1933.08,13,377.44,Egypt,2020-05-04
+10223,Printer,Office Supplies,Appliances,2765.07,19,432.78,Kuwait,2023-01-09
+10224,Camera,Office Supplies,Paper,3002.6,17,561.51,Kuwait,2025-02-04
+10225,Desk,Furniture,Tables,2751.15,14,495.95,Saudi Arabia,2023-03-19
+10226,Notebook,Office Supplies,Storage,2249.88,12,309.47,Egypt,2020-05-08
+10227,Tablet,Office Supplies,Paper,122.6,12,26.89,Jordan,2021-03-13
+10228,Phone,Technology,Accessories,2955.96,11,708.32,Qatar,2022-01-20
+10229,Printer,Technology,Phones,883.8,7,47.42,Kuwait,2023-05-06
+10230,Printer,Technology,Phones,3230.75,4,328.92,Egypt,2022-06-20
+10231,Camera,Technology,Accessories,3808.75,19,869.57,Kuwait,2025-09-23
+10232,Laptop,Furniture,Tables,2527.2,1,370.63,Saudi Arabia,2023-07-26
+10233,Pen,Technology,Machines,2734.7,3,589.66,Oman,2023-12-04
+10234,Monitor,Office Supplies,Paper,4759.82,13,650.86,United Arab Emirates,2021-01-25
+10235,Monitor,Furniture,Chairs,4243.48,15,626.71,Egypt,2022-12-03
+10236,Printer,Office Supplies,Storage,4575.47,2,410.28,Morocco,2020-01-27
+10237,Tablet,Office Supplies,Appliances,4078.14,11,467.18,United Arab Emirates,2021-07-01
+10238,Desk,Office Supplies,Paper,589.15,4,118.63,Kuwait,2021-07-20
+10239,Tablet,Technology,Phones,787.51,19,124.66,Morocco,2021-12-04
+10240,Printer,Technology,Phones,2656.79,17,647.13,Morocco,2023-05-27
+10241,Tablet,Furniture,Tables,1268.04,3,333.68,Morocco,2020-07-03
+10242,Phone,Furniture,Furnishings,2409.64,18,446.78,Egypt,2024-05-09
+10243,Tablet,Technology,Phones,2002.11,8,479.64,Jordan,2025-03-28
+10244,Camera,Office Supplies,Appliances,2769.6,19,350.98,Kuwait,2022-04-27
+10245,Camera,Furniture,Tables,3747.03,5,576.08,United Arab Emirates,2021-08-21
+10246,Desk,Technology,Phones,3591.68,7,819.6,Saudi Arabia,2022-03-16
+10247,Phone,Technology,Copiers,2630.11,8,385.45,Jordan,2023-09-19
+10248,Pen,Technology,Copiers,4120.85,5,812.33,Kuwait,2025-10-27
+10249,Laptop,Office Supplies,Art,2182.77,17,210.3,Oman,2025-02-21
+10250,Phone,Technology,Phones,4488.74,5,897.49,Oman,2021-06-29
+10251,Chair,Technology,Accessories,402.84,4,106.91,Egypt,2024-06-20
+10252,Notebook,Technology,Copiers,4775.57,19,1275.84,Morocco,2025-09-10
+10253,Printer,Technology,Accessories,3290.73,2,760.44,Saudi Arabia,2025-04-10
+10254,Chair,Furniture,Tables,1931.37,11,456.65,Kuwait,2021-09-08
+10255,Desk,Furniture,Bookcases,1025.91,13,194.39,United Arab Emirates,2023-04-18
+10256,Chair,Technology,Accessories,2421.96,15,475.11,Kuwait,2024-10-25
+10257,Camera,Office Supplies,Storage,1013.06,12,84.5,Jordan,2020-08-13
+10258,Tablet,Furniture,Tables,873.34,11,140.58,Oman,2021-10-31
+10259,Laptop,Technology,Copiers,3105.89,7,505.31,Qatar,2024-10-29
+10260,Monitor,Furniture,Chairs,2639.27,5,764.4,Jordan,2022-07-05
+10261,Printer,Furniture,Furnishings,3366.98,17,531.21,Kuwait,2025-10-22
+10262,Monitor,Office Supplies,Storage,4651.55,9,871.4,Saudi Arabia,2023-04-29
+10263,Tablet,Technology,Copiers,2684.69,14,492.14,Kuwait,2024-09-01
+10264,Camera,Technology,Machines,2925.61,12,612.01,Kuwait,2025-01-16
+10265,Camera,Office Supplies,Storage,493.65,6,117.02,Egypt,2025-06-06
+10266,Tablet,Office Supplies,Storage,3602.3,17,382.78,United Arab Emirates,2020-02-25
+10267,Printer,Technology,Accessories,2029.53,19,369.74,Saudi Arabia,2021-12-20
+10268,Monitor,Technology,Machines,4884.79,19,1252.85,Kuwait,2025-09-10
+10269,Phone,Office Supplies,Paper,4124.71,16,683.79,Morocco,2021-07-27
+10270,Camera,Furniture,Bookcases,2636.28,12,315.34,United Arab Emirates,2021-10-28
+10271,Monitor,Furniture,Furnishings,659.95,12,141.02,Jordan,2020-10-10
+10272,Pen,Office Supplies,Appliances,4304.11,6,1101.6,Saudi Arabia,2024-10-10
+10273,Monitor,Furniture,Furnishings,4008.92,4,263.73,Jordan,2021-05-12
+10274,Pen,Office Supplies,Paper,963.7,6,235.33,Oman,2024-01-05
+10275,Pen,Furniture,Chairs,1511.63,11,386.09,Kuwait,2020-05-09
+10276,Camera,Furniture,Chairs,3977.37,1,657.78,Jordan,2021-09-30
+10277,Printer,Technology,Copiers,966.88,15,286.03,Jordan,2025-08-22
+10278,Desk,Technology,Copiers,4592.87,11,1132.96,Egypt,2022-09-12
+10279,Camera,Furniture,Tables,2151.41,19,523.69,Jordan,2022-09-19
+10280,Printer,Furniture,Tables,480.84,18,113.94,Morocco,2025-10-22
+10281,Printer,Technology,Machines,4087.96,17,358.32,Morocco,2020-04-10
+10282,Chair,Technology,Accessories,1898.87,19,198.07,United Arab Emirates,2021-03-02
+10283,Tablet,Technology,Phones,2656.17,14,440.92,Kuwait,2020-02-10
+10284,Tablet,Office Supplies,Paper,605.91,18,70.29,Qatar,2021-03-04
+10285,Tablet,Furniture,Bookcases,62.79,19,9.66,Oman,2020-12-09
+10286,Notebook,Technology,Phones,3208.03,15,872.96,Jordan,2020-12-31
+10287,Camera,Furniture,Furnishings,2600.12,15,665.84,Jordan,2021-08-31
+10288,Printer,Office Supplies,Paper,2988.02,4,620.04,Saudi Arabia,2021-12-28
+10289,Chair,Office Supplies,Paper,3979.03,7,1052.57,Egypt,2022-04-04
+10290,Pen,Technology,Machines,3250.7,13,799.49,Qatar,2023-10-07
+10291,Desk,Office Supplies,Art,915.13,3,143.9,United Arab Emirates,2022-06-07
+10292,Desk,Furniture,Bookcases,1835.82,16,184.07,Oman,2025-08-05
+10293,Pen,Technology,Phones,4534.16,9,809.58,Qatar,2023-09-03
+10294,Monitor,Furniture,Furnishings,3861.23,8,903.75,Jordan,2023-07-20
+10295,Monitor,Furniture,Chairs,2805.35,13,446.34,Saudi Arabia,2020-04-26
+10296,Tablet,Office Supplies,Paper,1315.44,17,285.05,Kuwait,2023-01-22
+10297,Camera,Office Supplies,Appliances,1545.2,17,113.7,Egypt,2020-06-16
+10298,Notebook,Office Supplies,Storage,3673.19,17,870.55,Kuwait,2024-10-04
+10299,Chair,Office Supplies,Storage,4263.31,1,1079.38,United Arab Emirates,2023-09-26
+10300,Desk,Office Supplies,Storage,3373.55,8,764.82,Qatar,2021-11-25
+10301,Tablet,Technology,Accessories,4057.17,19,1183.95,United Arab Emirates,2022-07-13
+10302,Laptop,Furniture,Furnishings,3844.95,6,986.86,Jordan,2020-05-31
+10303,Tablet,Furniture,Tables,791.03,3,218.15,United Arab Emirates,2021-08-08
+10304,Laptop,Furniture,Chairs,2148.53,5,608.88,Kuwait,2022-07-01
+10305,Phone,Furniture,Chairs,807.27,13,202.09,Saudi Arabia,2024-04-26
+10306,Printer,Office Supplies,Appliances,1214.42,15,265.43,United Arab Emirates,2021-05-10
+10307,Pen,Furniture,Chairs,4352.84,14,223.87,Morocco,2021-07-10
+10308,Printer,Technology,Accessories,2390.82,16,397.97,Saudi Arabia,2023-01-10
+10309,Tablet,Technology,Machines,2700.02,18,520.54,Qatar,2024-04-01
+10310,Printer,Furniture,Furnishings,933.31,11,117.6,Egypt,2025-10-21
+10311,Chair,Furniture,Bookcases,1595.75,3,206.69,Egypt,2020-06-05
+10312,Phone,Technology,Accessories,1189.72,10,345.36,Jordan,2022-01-04
+10313,Notebook,Technology,Phones,1070.62,10,292.2,Jordan,2023-11-28
+10314,Phone,Office Supplies,Storage,3207.91,16,841.42,Morocco,2021-07-12
+10315,Desk,Technology,Copiers,1321.58,12,200.22,Qatar,2020-06-03
+10316,Chair,Office Supplies,Binders,3178.48,2,169.81,Kuwait,2022-09-23
+10317,Printer,Office Supplies,Binders,339.35,9,23.77,Egypt,2021-06-14
+10318,Notebook,Office Supplies,Art,751.78,3,96.26,Egypt,2025-05-25
+10319,Printer,Office Supplies,Paper,1408.97,15,75.99,Egypt,2021-12-29
+10320,Camera,Office Supplies,Binders,3005.38,3,163.15,Kuwait,2023-03-23
+10321,Camera,Furniture,Tables,3395.41,19,947.83,Egypt,2020-06-02
+10322,Monitor,Technology,Accessories,2241.45,18,507.78,United Arab Emirates,2020-04-01
+10323,Phone,Office Supplies,Storage,2256.67,8,287.14,Qatar,2024-02-12
+10324,Notebook,Technology,Copiers,3636.36,17,302.4,Saudi Arabia,2024-09-12
+10325,Camera,Technology,Machines,128.31,8,22.83,Saudi Arabia,2025-07-09
+10326,Monitor,Office Supplies,Paper,1738.4,7,89.24,Morocco,2022-02-25
+10327,Chair,Furniture,Furnishings,4102.6,7,1167.61,United Arab Emirates,2020-09-29
+10328,Notebook,Office Supplies,Appliances,3035.94,3,466.64,Egypt,2025-07-20
+10329,Monitor,Furniture,Bookcases,1719.27,1,258.89,Egypt,2020-06-25
+10330,Pen,Technology,Copiers,4532.35,4,669.19,Jordan,2021-10-04
+10331,Notebook,Furniture,Bookcases,3874.48,5,260.88,Jordan,2025-03-13
+10332,Tablet,Furniture,Furnishings,1361.23,1,285.29,Morocco,2021-07-20
+10333,Monitor,Furniture,Tables,3244.18,15,756.71,Egypt,2021-10-27
+10334,Printer,Technology,Accessories,2998.97,5,656.87,Morocco,2023-08-24
+10335,Tablet,Technology,Copiers,2035.88,13,172.25,United Arab Emirates,2024-12-03
+10336,Pen,Furniture,Tables,1866.43,8,363.41,Saudi Arabia,2022-12-05
+10337,Camera,Furniture,Tables,1750.62,8,336.77,Egypt,2021-02-11
+10338,Laptop,Office Supplies,Art,3104.92,5,829.33,Qatar,2023-04-27
+10339,Monitor,Furniture,Chairs,2239.93,9,324.3,Kuwait,2025-01-27
+10340,Chair,Office Supplies,Art,4167.72,1,595.45,United Arab Emirates,2023-02-26
+10341,Monitor,Furniture,Furnishings,3364.53,4,688.49,Egypt,2023-02-15
+10342,Laptop,Office Supplies,Binders,396.16,3,82.51,Kuwait,2020-05-23
+10343,Pen,Technology,Copiers,3218.83,2,538.58,Qatar,2021-05-01
+10344,Pen,Furniture,Chairs,1392.18,8,223.81,Jordan,2022-05-09
+10345,Tablet,Furniture,Furnishings,2984.42,9,517.91,Morocco,2025-04-19
+10346,Notebook,Furniture,Chairs,3416.65,2,906.31,Jordan,2020-05-27
+10347,Chair,Furniture,Chairs,1192.6,14,197.13,Saudi Arabia,2023-09-21
+10348,Tablet,Office Supplies,Storage,2311.45,14,658.72,Jordan,2023-09-19
+10349,Chair,Furniture,Furnishings,992.11,4,174.61,Egypt,2020-03-30
+10350,Chair,Technology,Copiers,309.08,6,88.8,Qatar,2023-09-19
+10351,Laptop,Technology,Copiers,1923.46,11,496.65,Jordan,2020-07-17
+10352,Tablet,Furniture,Bookcases,1846.57,3,259.64,Egypt,2021-06-21
+10353,Chair,Technology,Phones,4977.63,8,1323.6,Saudi Arabia,2020-10-27
+10354,Desk,Furniture,Furnishings,2259.44,3,175.14,Kuwait,2021-12-24
+10355,Laptop,Furniture,Tables,1701.17,14,478.47,Qatar,2024-05-17
+10356,Pen,Technology,Phones,2923.35,13,607.8,Jordan,2023-12-30
+10357,Laptop,Furniture,Bookcases,489.4,13,31.12,Morocco,2020-03-08
+10358,Printer,Technology,Phones,4810.25,2,1015.27,Morocco,2024-03-17
+10359,Printer,Office Supplies,Storage,3193.05,13,937.36,Qatar,2021-02-01
+10360,Chair,Furniture,Bookcases,3786.45,19,255.4,Morocco,2021-09-11
+10361,Tablet,Office Supplies,Paper,893.87,6,168.65,Jordan,2024-05-03
+10362,Pen,Technology,Machines,2076.92,16,492.12,Jordan,2023-03-09
+10363,Laptop,Office Supplies,Binders,2142.31,2,541.07,Qatar,2021-12-30
+10364,Tablet,Office Supplies,Storage,4117.94,8,631.93,Jordan,2021-07-09
+10365,Laptop,Technology,Machines,56.12,17,5.67,Kuwait,2025-05-06
+10366,Laptop,Office Supplies,Storage,1539.22,2,93.25,Egypt,2024-10-17
+10367,Desk,Office Supplies,Art,4907.12,10,956.55,Saudi Arabia,2022-09-22
+10368,Printer,Technology,Machines,2400.69,16,391.86,Kuwait,2025-05-13
+10369,Laptop,Office Supplies,Appliances,1943.51,6,558.15,Kuwait,2024-05-20
+10370,Desk,Technology,Accessories,643.15,2,41.9,Morocco,2024-01-20
+10371,Printer,Office Supplies,Appliances,4872.11,2,1078.44,Egypt,2023-01-07
+10372,Desk,Technology,Accessories,149.13,13,8.39,Qatar,2023-11-04
+10373,Tablet,Technology,Copiers,3699.04,15,343.49,Oman,2023-07-23
+10374,Notebook,Office Supplies,Binders,3854.57,2,629.82,Morocco,2024-09-18
+10375,Printer,Office Supplies,Binders,1256.1,7,205.65,Egypt,2022-06-17
+10376,Camera,Office Supplies,Paper,3374.21,3,747.13,Jordan,2023-04-21
+10377,Notebook,Furniture,Bookcases,510.0,8,141.55,Qatar,2024-03-15
+10378,Tablet,Furniture,Chairs,1322.38,14,277.38,Oman,2020-03-18
+10379,Laptop,Furniture,Bookcases,3950.11,7,1139.15,Qatar,2024-03-12
+10380,Pen,Technology,Machines,4330.2,7,1170.9,Oman,2020-08-25
+10381,Tablet,Office Supplies,Appliances,3062.01,1,600.54,Oman,2023-03-03
+10382,Desk,Technology,Copiers,2558.85,17,661.33,Morocco,2025-06-19
+10383,Desk,Furniture,Furnishings,838.55,9,176.64,Jordan,2023-04-30
+10384,Desk,Office Supplies,Appliances,362.39,13,25.24,Morocco,2020-10-04
+10385,Desk,Technology,Machines,632.36,19,148.69,Oman,2021-06-07
+10386,Tablet,Office Supplies,Binders,1175.42,19,86.66,Oman,2020-06-28
+10387,Pen,Technology,Accessories,1741.29,17,345.68,United Arab Emirates,2020-05-02
+10388,Monitor,Office Supplies,Paper,1935.5,10,436.77,Egypt,2023-06-23
+10389,Desk,Furniture,Bookcases,1764.29,10,117.56,United Arab Emirates,2024-10-23
+10390,Monitor,Furniture,Chairs,1233.32,4,132.83,Egypt,2022-12-30
+10391,Pen,Office Supplies,Art,2573.14,8,717.7,Saudi Arabia,2021-04-24
+10392,Pen,Technology,Copiers,4135.17,18,843.9,Kuwait,2024-12-02
+10393,Notebook,Furniture,Tables,1434.53,14,160.05,Qatar,2022-03-26
+10394,Printer,Furniture,Bookcases,4714.82,18,1049.85,Morocco,2021-03-18
+10395,Camera,Furniture,Tables,4373.02,14,871.08,Saudi Arabia,2020-05-22
+10396,Chair,Office Supplies,Storage,850.73,15,149.21,Saudi Arabia,2020-07-10
+10397,Camera,Office Supplies,Art,3942.07,4,1159.15,Qatar,2023-11-11
+10398,Tablet,Technology,Machines,2894.21,13,639.23,Qatar,2021-01-12
+10399,Chair,Technology,Phones,2854.55,8,410.66,Egypt,2021-06-18
+10400,Pen,Technology,Phones,1985.66,18,496.45,United Arab Emirates,2024-09-12
+10401,Camera,Office Supplies,Paper,2530.71,12,686.19,Jordan,2022-10-29
+10402,Phone,Office Supplies,Binders,2016.03,14,163.91,Egypt,2023-11-11
+10403,Printer,Technology,Phones,2721.68,2,272.54,Jordan,2025-06-12
+10404,Camera,Technology,Machines,3158.35,18,328.65,Saudi Arabia,2023-03-23
+10405,Printer,Office Supplies,Storage,3387.8,2,754.81,Jordan,2021-02-08
+10406,Monitor,Technology,Machines,2685.78,11,539.2,United Arab Emirates,2023-03-18
+10407,Tablet,Furniture,Tables,3621.04,9,741.4,Egypt,2022-06-07
+10408,Printer,Office Supplies,Art,749.33,12,213.7,Oman,2021-02-25
+10409,Monitor,Technology,Machines,1099.31,17,268.21,Qatar,2024-06-29
+10410,Desk,Office Supplies,Paper,4102.74,15,336.36,Oman,2021-04-16
+10411,Monitor,Furniture,Tables,1646.51,17,225.37,United Arab Emirates,2021-06-30
+10412,Tablet,Office Supplies,Storage,163.32,18,25.94,Kuwait,2021-09-22
+10413,Notebook,Office Supplies,Paper,811.27,6,120.87,United Arab Emirates,2022-11-03
+10414,Desk,Office Supplies,Binders,1156.89,17,251.42,Kuwait,2025-01-03
+10415,Pen,Office Supplies,Storage,4788.75,18,1307.2,Egypt,2020-12-29
+10416,Laptop,Furniture,Chairs,2886.56,8,365.19,Qatar,2021-06-29
+10417,Monitor,Office Supplies,Paper,4667.02,9,877.26,United Arab Emirates,2021-09-25
+10418,Monitor,Office Supplies,Binders,2897.06,6,716.59,Oman,2025-04-20
+10419,Printer,Technology,Phones,2422.8,5,373.24,Kuwait,2024-08-07
+10420,Pen,Office Supplies,Paper,1602.95,12,147.52,Qatar,2022-08-20
+10421,Camera,Technology,Copiers,3051.54,11,514.91,Morocco,2022-06-01
+10422,Phone,Furniture,Chairs,739.03,1,47.15,Morocco,2022-05-20
+10423,Chair,Furniture,Tables,4496.4,11,1284.15,Morocco,2021-05-30
+10424,Monitor,Furniture,Tables,4155.2,19,285.48,Jordan,2023-11-21
+10425,Camera,Furniture,Bookcases,1621.78,9,258.86,United Arab Emirates,2022-05-15
+10426,Phone,Technology,Accessories,4766.35,2,869.72,Egypt,2023-01-13
+10427,Chair,Office Supplies,Art,4134.74,12,1225.23,Oman,2020-08-01
+10428,Laptop,Furniture,Tables,3348.22,4,306.38,Egypt,2020-01-19
+10429,Printer,Office Supplies,Binders,652.72,4,51.31,Jordan,2021-10-03
+10430,Camera,Technology,Phones,2417.26,18,126.12,Egypt,2023-01-09
+10431,Printer,Technology,Phones,2555.23,15,227.14,Kuwait,2020-11-25
+10432,Chair,Technology,Accessories,1201.13,19,122.3,Morocco,2022-05-15
+10433,Notebook,Furniture,Bookcases,445.83,13,92.57,Oman,2022-02-12
+10434,Monitor,Office Supplies,Appliances,3894.78,19,408.67,United Arab Emirates,2021-01-26
+10435,Desk,Office Supplies,Storage,654.07,17,36.06,Egypt,2021-09-28
+10436,Phone,Office Supplies,Binders,2991.74,6,767.84,Egypt,2022-10-22
+10437,Pen,Technology,Machines,4685.42,16,662.51,Saudi Arabia,2024-08-01
+10438,Tablet,Furniture,Chairs,4386.72,12,607.23,Saudi Arabia,2022-01-09
+10439,Monitor,Technology,Accessories,1424.88,19,178.99,Saudi Arabia,2024-03-25
+10440,Desk,Technology,Machines,4264.67,5,1253.14,United Arab Emirates,2021-04-13
+10441,Tablet,Office Supplies,Paper,51.65,17,4.78,Morocco,2023-02-09
+10442,Camera,Technology,Accessories,137.55,1,37.77,Qatar,2022-10-28
+10443,Tablet,Office Supplies,Binders,3032.64,10,740.57,Morocco,2022-05-23
+10444,Laptop,Furniture,Chairs,1855.75,15,128.27,Oman,2021-04-04
+10445,Monitor,Office Supplies,Appliances,1962.98,11,582.38,Morocco,2024-03-29
+10446,Printer,Furniture,Chairs,2843.98,13,335.14,United Arab Emirates,2022-01-21
+10447,Notebook,Office Supplies,Binders,999.32,5,74.59,Kuwait,2024-01-01
+10448,Pen,Technology,Machines,1098.19,1,282.6,Kuwait,2024-11-12
+10449,Printer,Technology,Copiers,2448.78,12,555.06,United Arab Emirates,2022-05-03
+10450,Desk,Furniture,Chairs,3783.56,11,773.0,Saudi Arabia,2023-08-22
+10451,Monitor,Furniture,Tables,3116.51,17,277.35,Egypt,2021-04-22
+10452,Notebook,Furniture,Tables,1521.91,4,258.15,Jordan,2020-05-14
+10453,Tablet,Office Supplies,Appliances,2180.17,15,534.44,Jordan,2023-02-26
+10454,Monitor,Office Supplies,Storage,894.79,9,112.66,Qatar,2021-02-13
+10455,Tablet,Furniture,Chairs,419.42,19,53.65,Egypt,2023-12-16
+10456,Camera,Technology,Copiers,3924.35,19,199.3,Qatar,2023-08-10
+10457,Laptop,Office Supplies,Storage,1363.67,12,127.59,Saudi Arabia,2023-06-23
+10458,Chair,Office Supplies,Binders,929.94,5,250.02,Qatar,2024-04-28
+10459,Monitor,Office Supplies,Art,3473.51,10,557.28,Egypt,2020-03-26
+10460,Desk,Furniture,Chairs,3109.36,17,920.55,Oman,2025-02-08
+10461,Tablet,Furniture,Chairs,3184.29,5,474.23,Egypt,2024-01-09
+10462,Printer,Furniture,Chairs,1183.03,16,270.67,Jordan,2021-01-12
+10463,Camera,Furniture,Bookcases,1201.6,7,144.77,Kuwait,2024-08-07
+10464,Desk,Furniture,Tables,1142.97,9,161.1,Saudi Arabia,2022-12-10
+10465,Pen,Technology,Phones,910.08,3,88.9,Oman,2020-08-29
+10466,Chair,Technology,Phones,3295.83,15,450.76,United Arab Emirates,2022-07-08
+10467,Camera,Furniture,Tables,4247.68,16,793.51,Oman,2024-05-05
+10468,Laptop,Office Supplies,Appliances,3635.37,18,1083.13,Oman,2023-06-25
+10469,Chair,Furniture,Furnishings,3970.86,14,857.91,Qatar,2020-03-10
+10470,Tablet,Technology,Accessories,2053.75,3,204.99,Jordan,2025-10-05
+10471,Desk,Technology,Accessories,3287.68,12,201.34,Qatar,2023-11-06
+10472,Pen,Office Supplies,Binders,1803.47,9,147.14,Qatar,2025-09-17
+10473,Phone,Technology,Machines,2651.25,7,505.43,United Arab Emirates,2025-06-30
+10474,Laptop,Furniture,Tables,2434.09,9,587.32,Saudi Arabia,2022-03-11
+10475,Notebook,Office Supplies,Storage,925.59,13,263.89,Egypt,2022-11-07
+10476,Tablet,Furniture,Chairs,1966.04,18,106.08,Morocco,2022-04-04
+10477,Phone,Furniture,Bookcases,4820.92,5,871.09,Qatar,2022-01-25
+10478,Monitor,Office Supplies,Appliances,1280.47,13,214.76,Morocco,2025-06-18
+10479,Pen,Furniture,Furnishings,712.33,4,152.45,Saudi Arabia,2025-01-13
+10480,Printer,Technology,Copiers,2121.97,2,402.95,Morocco,2023-08-14
+10481,Notebook,Furniture,Tables,3962.17,16,878.65,Qatar,2024-05-28
+10482,Desk,Office Supplies,Appliances,2931.63,9,628.9,United Arab Emirates,2020-04-19
+10483,Pen,Office Supplies,Appliances,3420.83,9,271.11,Morocco,2022-10-13
+10484,Chair,Office Supplies,Storage,988.99,6,247.18,Saudi Arabia,2025-05-15
+10485,Camera,Furniture,Furnishings,3113.79,11,251.62,Saudi Arabia,2024-11-04
+10486,Chair,Office Supplies,Storage,1651.33,1,370.94,Kuwait,2020-01-25
+10487,Chair,Office Supplies,Art,4179.8,4,643.84,Kuwait,2022-04-22
+10488,Monitor,Furniture,Chairs,3165.03,13,564.84,United Arab Emirates,2022-01-07
+10489,Laptop,Technology,Copiers,1034.34,13,285.3,Morocco,2025-10-05
+10490,Printer,Furniture,Bookcases,369.85,13,100.77,Morocco,2020-06-28
+10491,Notebook,Office Supplies,Storage,261.03,2,66.42,Kuwait,2020-08-19
+10492,Laptop,Office Supplies,Binders,1888.47,9,335.27,Egypt,2025-04-01
+10493,Pen,Furniture,Bookcases,1365.96,8,319.72,Jordan,2020-12-08
+10494,Chair,Technology,Copiers,3248.15,7,578.9,Saudi Arabia,2021-04-21
+10495,Monitor,Office Supplies,Appliances,2521.7,4,674.31,Egypt,2024-12-27
+10496,Pen,Office Supplies,Paper,1366.8,18,205.97,Saudi Arabia,2021-03-30
+10497,Camera,Office Supplies,Binders,788.73,3,230.75,Oman,2023-06-09
+10498,Printer,Furniture,Furnishings,679.64,6,192.39,Oman,2020-10-15
+10499,Notebook,Office Supplies,Art,4330.07,12,1019.3,Egypt,2023-05-21
+10500,Camera,Technology,Copiers,1255.22,12,150.44,Oman,2021-06-13
+10501,Monitor,Office Supplies,Storage,3275.97,8,271.62,Kuwait,2021-08-18
+10502,Printer,Office Supplies,Art,4062.9,1,1071.29,Kuwait,2021-03-10
+10503,Pen,Technology,Copiers,3089.7,4,282.17,Jordan,2022-05-31
+10504,Chair,Office Supplies,Paper,4304.85,11,1134.61,Egypt,2024-11-16
+10505,Chair,Furniture,Tables,1992.35,3,344.06,Saudi Arabia,2021-02-05
+10506,Tablet,Furniture,Bookcases,4783.3,13,725.34,Morocco,2024-04-14
+10507,Chair,Furniture,Chairs,709.07,17,195.56,Saudi Arabia,2020-11-04
+10508,Phone,Technology,Copiers,555.64,10,111.66,Qatar,2020-12-08
+10509,Chair,Office Supplies,Binders,3310.53,12,642.75,Kuwait,2021-03-11
+10510,Phone,Furniture,Chairs,4717.01,15,894.78,United Arab Emirates,2020-06-25
+10511,Desk,Technology,Accessories,4053.97,10,578.88,United Arab Emirates,2020-05-18
+10512,Phone,Office Supplies,Binders,428.26,14,105.53,Kuwait,2020-07-12
+10513,Printer,Technology,Phones,1432.87,13,162.2,Qatar,2023-03-30
+10514,Camera,Furniture,Chairs,4655.08,5,1325.41,United Arab Emirates,2022-07-31
+10515,Printer,Furniture,Chairs,1302.64,6,356.27,Oman,2021-06-08
+10516,Camera,Furniture,Furnishings,3916.79,2,526.3,Kuwait,2024-06-12
+10517,Tablet,Technology,Phones,4134.4,17,960.69,United Arab Emirates,2022-01-10
+10518,Desk,Technology,Phones,2502.49,4,483.75,Kuwait,2022-05-11
+10519,Camera,Furniture,Chairs,1962.43,14,263.77,Jordan,2022-08-11
+10520,Camera,Technology,Phones,2278.12,10,676.9,Morocco,2023-07-26
+10521,Monitor,Furniture,Bookcases,1173.48,3,66.08,Morocco,2023-06-28
+10522,Laptop,Furniture,Furnishings,4452.49,3,503.85,Saudi Arabia,2024-10-09
+10523,Laptop,Office Supplies,Binders,2280.57,15,410.54,Qatar,2022-03-02
+10524,Monitor,Technology,Phones,4418.17,6,797.43,Kuwait,2021-06-29
+10525,Chair,Furniture,Bookcases,573.18,17,113.05,Egypt,2025-01-18
+10526,Monitor,Furniture,Bookcases,4941.96,12,1175.79,Saudi Arabia,2022-10-13
+10527,Camera,Technology,Copiers,2244.2,11,462.01,Saudi Arabia,2025-04-11
+10528,Camera,Office Supplies,Binders,286.76,4,57.37,Kuwait,2024-04-02
+10529,Monitor,Office Supplies,Appliances,238.21,6,15.1,Kuwait,2020-02-26
+10530,Monitor,Furniture,Furnishings,3743.73,1,539.59,Saudi Arabia,2020-01-05
+10531,Chair,Technology,Machines,3312.23,16,357.77,Saudi Arabia,2023-12-08
+10532,Printer,Office Supplies,Storage,4020.55,15,467.76,Morocco,2023-09-24
+10533,Desk,Technology,Accessories,571.57,17,107.79,Egypt,2024-12-25
+10534,Pen,Technology,Accessories,226.08,8,22.58,Oman,2023-07-06
+10535,Camera,Furniture,Tables,2567.47,12,317.05,Saudi Arabia,2023-06-27
+10536,Desk,Office Supplies,Art,1968.6,10,215.11,Oman,2023-02-05
+10537,Monitor,Furniture,Bookcases,2336.64,15,670.91,Morocco,2021-10-29
+10538,Chair,Office Supplies,Appliances,4958.36,9,1418.92,Saudi Arabia,2023-07-05
+10539,Phone,Office Supplies,Art,4855.21,2,983.11,United Arab Emirates,2022-09-23
+10540,Chair,Office Supplies,Storage,4714.46,5,1325.38,Saudi Arabia,2025-04-10
+10541,Notebook,Office Supplies,Storage,3930.02,6,968.57,Kuwait,2020-10-08
+10542,Notebook,Office Supplies,Paper,1806.46,7,356.75,Qatar,2023-05-12
+10543,Desk,Technology,Phones,2090.05,1,107.86,Qatar,2025-08-25
+10544,Laptop,Furniture,Chairs,2770.6,7,673.61,Saudi Arabia,2022-07-24
+10545,Notebook,Technology,Accessories,4161.15,12,938.85,Jordan,2020-09-10
+10546,Notebook,Office Supplies,Paper,390.13,16,79.51,United Arab Emirates,2023-04-26
+10547,Printer,Furniture,Bookcases,2150.27,16,516.29,Egypt,2020-11-24
+10548,Phone,Office Supplies,Paper,458.96,11,81.8,Saudi Arabia,2023-11-21
+10549,Printer,Furniture,Bookcases,2597.56,4,587.1,Oman,2024-03-20
+10550,Phone,Technology,Machines,4499.56,13,1276.94,Egypt,2023-04-07
+10551,Tablet,Furniture,Tables,3923.3,7,564.76,United Arab Emirates,2024-09-12
+10552,Pen,Furniture,Furnishings,1177.82,4,267.4,Saudi Arabia,2023-04-16
+10553,Camera,Furniture,Furnishings,4881.15,15,824.53,Jordan,2021-10-16
+10554,Notebook,Furniture,Bookcases,3353.38,19,733.05,Morocco,2023-10-17
+10555,Camera,Furniture,Furnishings,101.62,9,24.46,Jordan,2022-01-29
+10556,Notebook,Office Supplies,Appliances,1314.3,11,80.65,Kuwait,2024-12-03
+10557,Printer,Furniture,Chairs,1340.53,8,283.72,Jordan,2022-11-29
+10558,Pen,Furniture,Bookcases,392.81,1,41.91,Oman,2021-02-19
+10559,Printer,Technology,Phones,4801.14,8,1044.29,Morocco,2020-09-11
+10560,Printer,Furniture,Tables,2417.36,13,403.9,Kuwait,2023-03-12
+10561,Phone,Technology,Machines,4484.28,4,1091.42,Morocco,2025-02-19
+10562,Laptop,Office Supplies,Paper,1644.97,8,133.0,Qatar,2022-06-18
+10563,Chair,Furniture,Tables,669.91,3,138.39,Morocco,2025-08-20
+10564,Desk,Technology,Phones,2397.96,9,286.84,Saudi Arabia,2020-01-26
+10565,Camera,Technology,Machines,614.09,2,161.66,Egypt,2021-02-24
+10566,Tablet,Office Supplies,Storage,2455.78,2,692.77,Qatar,2023-05-29
+10567,Notebook,Furniture,Tables,4605.47,13,1377.49,Qatar,2025-02-19
+10568,Printer,Furniture,Chairs,2627.8,15,654.33,Egypt,2023-06-14
+10569,Laptop,Technology,Phones,3101.67,12,739.54,Oman,2022-10-05
+10570,Printer,Furniture,Tables,825.36,4,85.73,Qatar,2020-08-06
+10571,Pen,Technology,Copiers,266.49,8,35.71,Morocco,2024-02-19
+10572,Phone,Furniture,Furnishings,598.5,9,99.6,Jordan,2025-05-13
+10573,Tablet,Technology,Accessories,3012.73,5,733.13,United Arab Emirates,2021-10-24
+10574,Chair,Furniture,Furnishings,520.31,18,145.03,Oman,2022-09-16
+10575,Pen,Office Supplies,Paper,1911.16,11,185.93,Morocco,2020-07-07
+10576,Monitor,Furniture,Bookcases,2772.96,15,778.07,Kuwait,2020-09-11
+10577,Tablet,Furniture,Tables,1973.83,9,441.95,Kuwait,2020-03-08
+10578,Printer,Office Supplies,Appliances,860.23,17,174.36,Jordan,2021-09-07
+10579,Pen,Furniture,Tables,1405.27,12,140.47,Oman,2022-05-23
+10580,Chair,Office Supplies,Binders,4645.17,7,296.74,Oman,2024-06-13
+10581,Laptop,Furniture,Bookcases,3396.11,10,652.45,Jordan,2020-12-22
+10582,Laptop,Technology,Accessories,2505.44,10,533.36,Oman,2020-09-12
+10583,Camera,Technology,Copiers,112.94,13,11.6,Qatar,2022-10-04
+10584,Chair,Furniture,Chairs,4962.46,19,938.47,Saudi Arabia,2024-10-21
+10585,Laptop,Furniture,Bookcases,3373.7,11,891.07,Saudi Arabia,2020-10-10
+10586,Pen,Furniture,Chairs,1618.77,13,418.88,Oman,2020-04-08
+10587,Camera,Technology,Copiers,4402.38,8,1240.76,Qatar,2020-07-15
+10588,Laptop,Furniture,Furnishings,1329.24,8,188.05,Qatar,2022-05-27
+10589,Tablet,Technology,Machines,2742.88,4,355.24,Egypt,2025-02-11
+10590,Phone,Office Supplies,Binders,3198.55,15,759.2,Egypt,2023-10-20
+10591,Monitor,Technology,Copiers,1144.26,11,180.54,United Arab Emirates,2021-07-23
+10592,Chair,Technology,Copiers,4893.07,11,351.75,United Arab Emirates,2022-12-01
+10593,Pen,Office Supplies,Appliances,3753.55,1,453.05,United Arab Emirates,2021-02-25
+10594,Notebook,Technology,Accessories,2811.18,17,434.74,United Arab Emirates,2023-04-19
+10595,Printer,Furniture,Bookcases,943.94,15,116.23,Jordan,2021-06-28
+10596,Pen,Furniture,Tables,316.6,6,42.12,Jordan,2020-03-11
+10597,Laptop,Technology,Machines,1634.3,15,201.74,Egypt,2023-05-08
+10598,Pen,Furniture,Bookcases,3778.28,9,228.11,Saudi Arabia,2022-02-06
+10599,Notebook,Technology,Copiers,1383.19,14,289.47,Qatar,2024-09-02
+10600,Printer,Furniture,Tables,2720.8,18,542.32,Kuwait,2021-10-16
+10601,Camera,Furniture,Bookcases,3653.34,17,779.43,Saudi Arabia,2024-12-01
+10602,Laptop,Technology,Accessories,584.32,18,57.31,Morocco,2020-08-08
+10603,Desk,Furniture,Bookcases,3442.23,5,426.54,Jordan,2020-06-30
+10604,Laptop,Technology,Phones,504.76,9,103.43,United Arab Emirates,2020-11-02
+10605,Monitor,Furniture,Tables,4827.39,11,965.03,United Arab Emirates,2023-11-20
+10606,Desk,Furniture,Bookcases,2467.55,1,435.73,Morocco,2022-10-10
+10607,Monitor,Office Supplies,Storage,795.85,18,109.51,Saudi Arabia,2025-08-13
+10608,Notebook,Office Supplies,Art,1744.8,6,485.46,United Arab Emirates,2022-04-27
+10609,Chair,Technology,Machines,2096.41,2,282.89,Saudi Arabia,2022-03-14
+10610,Printer,Office Supplies,Appliances,3803.02,15,623.33,Qatar,2020-08-02
+10611,Phone,Technology,Accessories,3729.95,14,818.83,Morocco,2023-12-14
+10612,Camera,Office Supplies,Storage,3079.11,5,571.96,Kuwait,2020-04-10
+10613,Phone,Furniture,Chairs,574.36,6,78.53,Saudi Arabia,2021-07-26
+10614,Tablet,Technology,Copiers,800.27,6,127.17,Qatar,2023-08-25
+10615,Tablet,Technology,Machines,514.1,18,127.82,Oman,2021-10-19
+10616,Notebook,Furniture,Tables,2907.01,14,347.48,Oman,2024-03-13
+10617,Chair,Technology,Copiers,4391.84,10,375.78,Saudi Arabia,2024-07-14
+10618,Tablet,Technology,Copiers,2197.31,14,281.89,Oman,2020-08-13
+10619,Laptop,Office Supplies,Art,846.2,13,222.03,Saudi Arabia,2020-04-14
+10620,Pen,Technology,Copiers,2812.31,3,203.18,United Arab Emirates,2025-06-20
+10621,Monitor,Furniture,Bookcases,4068.17,6,1212.01,Egypt,2022-02-10
+10622,Tablet,Office Supplies,Paper,3721.47,8,689.41,Oman,2021-03-04
+10623,Notebook,Office Supplies,Art,4413.18,12,1307.23,Jordan,2021-03-09
+10624,Monitor,Furniture,Chairs,1425.62,13,405.94,Saudi Arabia,2023-05-15
+10625,Laptop,Furniture,Tables,1010.07,11,164.85,Saudi Arabia,2022-05-15
+10626,Chair,Office Supplies,Paper,4405.09,12,438.85,Saudi Arabia,2020-09-07
+10627,Printer,Technology,Phones,3304.92,1,301.48,Egypt,2022-05-05
+10628,Phone,Office Supplies,Binders,1589.1,17,174.8,Qatar,2023-04-08
+10629,Laptop,Furniture,Chairs,3724.62,16,847.47,Oman,2021-07-14
+10630,Camera,Office Supplies,Appliances,4084.84,11,482.98,Kuwait,2024-01-09
+10631,Desk,Furniture,Tables,3094.14,13,418.81,Kuwait,2022-07-07
+10632,Notebook,Office Supplies,Art,3455.03,18,560.39,Morocco,2023-03-19
+10633,Phone,Technology,Accessories,1907.54,11,530.88,United Arab Emirates,2021-03-08
+10634,Camera,Office Supplies,Binders,2716.54,12,264.45,Egypt,2025-10-07
+10635,Printer,Office Supplies,Storage,2644.59,6,135.55,Qatar,2022-08-26
+10636,Camera,Furniture,Tables,4247.84,9,276.21,Saudi Arabia,2022-04-15
+10637,Chair,Furniture,Tables,4207.82,16,1162.16,Qatar,2022-06-16
+10638,Desk,Furniture,Tables,4171.77,4,883.91,Egypt,2021-04-16
+10639,Monitor,Office Supplies,Storage,104.61,3,12.37,Egypt,2020-09-03
+10640,Phone,Technology,Copiers,3760.25,16,354.58,Egypt,2022-09-17
+10641,Desk,Furniture,Chairs,3805.45,12,470.23,Morocco,2022-07-15
+10642,Pen,Furniture,Chairs,3407.98,11,268.21,Jordan,2023-04-06
+10643,Laptop,Office Supplies,Binders,3793.51,5,1082.6,United Arab Emirates,2022-12-10
+10644,Pen,Furniture,Furnishings,4217.75,18,1037.78,Morocco,2025-01-08
+10645,Laptop,Technology,Machines,2378.08,19,393.8,Morocco,2021-11-19
+10646,Chair,Technology,Copiers,2535.15,6,674.96,Oman,2024-01-24
+10647,Desk,Furniture,Bookcases,667.33,18,74.98,Jordan,2022-08-17
+10648,Printer,Furniture,Bookcases,1957.61,6,448.84,Morocco,2021-04-22
+10649,Tablet,Office Supplies,Art,3234.66,4,854.06,Egypt,2021-12-07
+10650,Camera,Technology,Phones,3912.98,12,544.66,Egypt,2023-02-11
+10651,Tablet,Technology,Accessories,1125.19,19,269.33,Oman,2022-01-23
+10652,Desk,Furniture,Chairs,732.22,2,90.63,Qatar,2024-07-17
+10653,Pen,Office Supplies,Appliances,3332.06,17,415.56,Saudi Arabia,2021-08-10
+10654,Tablet,Technology,Accessories,59.31,11,4.55,Morocco,2023-08-27
+10655,Notebook,Technology,Phones,932.94,11,149.28,Saudi Arabia,2024-02-01
+10656,Tablet,Office Supplies,Art,193.9,16,45.07,United Arab Emirates,2025-01-21
+10657,Laptop,Office Supplies,Paper,876.08,2,249.73,Kuwait,2020-07-25
+10658,Notebook,Technology,Machines,947.53,2,190.41,Egypt,2020-06-13
+10659,Phone,Technology,Machines,1968.98,8,523.32,Qatar,2025-06-21
+10660,Tablet,Office Supplies,Art,2041.52,13,521.86,United Arab Emirates,2025-09-15
+10661,Notebook,Technology,Copiers,4377.6,10,408.59,Oman,2020-11-28
+10662,Desk,Furniture,Chairs,2575.04,8,441.5,Qatar,2021-02-06
+10663,Camera,Furniture,Tables,3630.85,4,287.68,Kuwait,2021-02-17
+10664,Phone,Office Supplies,Paper,565.48,15,124.71,Kuwait,2020-02-14
+10665,Printer,Office Supplies,Art,1165.92,1,335.17,Oman,2020-03-02
+10666,Printer,Office Supplies,Appliances,3529.57,11,297.45,Jordan,2022-05-17
+10667,Chair,Furniture,Chairs,311.38,7,72.7,Oman,2024-01-31
+10668,Tablet,Technology,Accessories,2458.66,17,511.55,Egypt,2020-01-19
+10669,Camera,Furniture,Chairs,3016.88,18,591.01,United Arab Emirates,2020-12-30
+10670,Monitor,Technology,Copiers,3030.62,12,447.11,Jordan,2023-02-14
+10671,Notebook,Furniture,Chairs,163.52,9,22.69,Kuwait,2021-08-02
+10672,Phone,Technology,Accessories,1644.43,5,100.82,United Arab Emirates,2021-06-29
+10673,Desk,Furniture,Furnishings,3200.63,10,334.39,Qatar,2024-09-25
+10674,Tablet,Office Supplies,Binders,787.55,4,42.37,Jordan,2020-02-24
+10675,Desk,Furniture,Furnishings,3492.31,5,682.24,Jordan,2022-02-16
+10676,Monitor,Technology,Accessories,3742.33,10,286.15,Egypt,2020-02-11
+10677,Chair,Furniture,Tables,4910.75,11,1317.33,Oman,2023-08-13
+10678,Monitor,Furniture,Chairs,1088.72,10,196.83,Saudi Arabia,2020-08-18
+10679,Laptop,Furniture,Chairs,4134.4,8,929.92,Qatar,2021-03-28
+10680,Pen,Office Supplies,Paper,2625.47,2,400.95,Qatar,2024-03-25
+10681,Phone,Furniture,Chairs,1898.64,8,361.02,Oman,2023-10-13
+10682,Pen,Office Supplies,Paper,655.76,16,187.33,Jordan,2024-01-07
+10683,Monitor,Office Supplies,Paper,3690.75,5,260.88,Jordan,2023-02-25
+10684,Chair,Furniture,Chairs,1217.5,3,138.17,Egypt,2023-05-01
+10685,Chair,Furniture,Furnishings,1888.54,12,462.69,Saudi Arabia,2022-05-30
+10686,Printer,Furniture,Furnishings,359.58,13,26.85,Qatar,2020-03-25
+10687,Tablet,Technology,Machines,4016.77,13,276.82,Kuwait,2022-11-19
+10688,Printer,Furniture,Bookcases,3844.61,10,539.73,Morocco,2020-02-18
+10689,Phone,Office Supplies,Binders,3681.4,4,268.9,Morocco,2023-03-14
+10690,Phone,Furniture,Chairs,1532.25,9,300.73,Saudi Arabia,2020-03-09
+10691,Phone,Technology,Phones,908.73,2,96.84,United Arab Emirates,2024-08-28
+10692,Desk,Furniture,Chairs,3205.89,19,878.17,Egypt,2024-05-17
+10693,Printer,Technology,Copiers,2506.02,1,616.17,Saudi Arabia,2025-02-12
+10694,Desk,Technology,Machines,932.35,7,209.71,Oman,2022-10-12
+10695,Pen,Furniture,Tables,3445.26,17,703.65,Oman,2021-03-21
+10696,Tablet,Office Supplies,Storage,4956.08,3,1317.66,Morocco,2023-11-02
+10697,Monitor,Technology,Accessories,3748.74,3,396.49,Jordan,2020-09-18
+10698,Notebook,Furniture,Chairs,3712.93,3,996.09,Morocco,2025-01-22
+10699,Printer,Furniture,Tables,4754.05,17,1176.02,Jordan,2022-06-15
+10700,Notebook,Office Supplies,Paper,1054.54,7,249.97,Egypt,2022-12-30
+10701,Chair,Technology,Copiers,2849.47,14,542.29,Jordan,2024-04-05
+10702,Printer,Technology,Machines,4899.25,17,546.57,Saudi Arabia,2020-04-01
+10703,Pen,Furniture,Furnishings,868.21,18,135.34,Jordan,2020-05-06
+10704,Printer,Furniture,Bookcases,3516.25,13,873.41,United Arab Emirates,2020-03-20
+10705,Desk,Office Supplies,Art,2949.76,18,170.92,Oman,2025-01-21
+10706,Tablet,Office Supplies,Appliances,2953.07,4,725.02,Saudi Arabia,2022-09-09
+10707,Monitor,Technology,Copiers,3503.47,1,385.44,Oman,2022-07-04
+10708,Camera,Technology,Accessories,4651.6,18,400.4,Egypt,2021-11-24
+10709,Monitor,Furniture,Chairs,3923.78,1,309.69,Saudi Arabia,2020-01-25
+10710,Monitor,Technology,Copiers,327.87,13,18.63,United Arab Emirates,2020-06-04
+10711,Chair,Office Supplies,Appliances,4271.0,10,772.61,Egypt,2024-12-17
+10712,Pen,Office Supplies,Binders,1166.43,11,121.97,Morocco,2024-04-02
+10713,Notebook,Furniture,Bookcases,1915.73,9,569.66,United Arab Emirates,2025-05-20
+10714,Pen,Office Supplies,Binders,2335.58,9,452.19,Egypt,2024-09-29
+10715,Camera,Office Supplies,Paper,2430.48,5,205.31,Kuwait,2022-12-16
+10716,Chair,Office Supplies,Binders,2204.14,1,489.74,Jordan,2024-06-16
+10717,Tablet,Office Supplies,Paper,4689.9,17,1287.08,Saudi Arabia,2020-01-19
+10718,Monitor,Furniture,Chairs,3544.79,2,837.62,Egypt,2023-11-08
+10719,Desk,Furniture,Tables,3174.29,13,219.38,Saudi Arabia,2023-05-01
+10720,Chair,Technology,Copiers,296.72,9,81.29,Jordan,2023-11-11
+10721,Phone,Office Supplies,Appliances,4524.37,4,1124.23,Egypt,2020-10-03
+10722,Printer,Technology,Phones,4551.48,5,407.7,Morocco,2022-01-14
+10723,Pen,Furniture,Tables,3912.05,11,246.25,Kuwait,2021-07-05
+10724,Chair,Furniture,Bookcases,84.79,19,16.05,Kuwait,2023-03-22
+10725,Phone,Furniture,Bookcases,333.54,3,29.69,United Arab Emirates,2021-09-30
+10726,Notebook,Furniture,Chairs,1164.86,12,301.29,Egypt,2020-08-24
+10727,Camera,Furniture,Chairs,700.18,19,97.73,Jordan,2022-09-24
+10728,Camera,Furniture,Bookcases,2024.24,19,563.19,Egypt,2025-10-03
+10729,Monitor,Furniture,Furnishings,4616.98,13,883.79,Saudi Arabia,2025-06-26
+10730,Monitor,Office Supplies,Binders,2386.7,7,228.33,Qatar,2023-12-30
+10731,Chair,Technology,Phones,116.34,15,9.88,Oman,2023-04-22
+10732,Chair,Furniture,Chairs,1449.59,7,281.39,Egypt,2023-10-23
+10733,Tablet,Office Supplies,Storage,270.74,8,65.11,Kuwait,2025-06-29
+10734,Printer,Office Supplies,Binders,229.62,5,56.34,Kuwait,2023-05-06
+10735,Laptop,Technology,Copiers,1414.81,14,168.28,Oman,2023-10-26
+10736,Notebook,Furniture,Tables,1414.28,4,142.93,Kuwait,2021-01-07
+10737,Monitor,Technology,Accessories,3946.28,10,213.85,Morocco,2024-02-29
+10738,Laptop,Furniture,Tables,4875.43,15,1071.62,Egypt,2022-04-28
+10739,Laptop,Office Supplies,Paper,1887.48,18,130.5,United Arab Emirates,2023-09-07
+10740,Printer,Office Supplies,Storage,2172.99,13,337.23,Egypt,2021-05-18
+10741,Desk,Office Supplies,Storage,4231.71,8,848.12,Qatar,2021-12-03
+10742,Desk,Office Supplies,Appliances,1377.29,9,391.53,Kuwait,2025-09-20
+10743,Monitor,Technology,Machines,824.09,16,105.44,Saudi Arabia,2020-11-10
+10744,Phone,Furniture,Chairs,4272.79,19,480.45,Kuwait,2022-11-06
+10745,Printer,Furniture,Bookcases,280.18,16,59.83,Egypt,2020-10-09
+10746,Printer,Technology,Phones,3117.51,7,638.5,Morocco,2020-09-14
+10747,Pen,Furniture,Chairs,2831.86,14,376.72,Jordan,2021-07-28
+10748,Laptop,Office Supplies,Art,1762.31,14,497.02,Egypt,2021-07-27
+10749,Pen,Furniture,Tables,1610.19,4,420.61,Egypt,2022-11-08
+10750,Laptop,Office Supplies,Appliances,3870.7,15,410.28,United Arab Emirates,2024-04-01
+10751,Desk,Technology,Accessories,477.8,3,52.46,Morocco,2021-02-26
+10752,Monitor,Furniture,Bookcases,1222.08,5,217.62,Qatar,2024-01-29
+10753,Notebook,Technology,Phones,3675.62,1,894.62,Jordan,2023-10-28
+10754,Desk,Furniture,Furnishings,2764.19,3,168.64,Kuwait,2022-01-27
+10755,Printer,Office Supplies,Storage,683.54,15,152.66,Saudi Arabia,2023-01-09
+10756,Notebook,Technology,Copiers,4416.57,8,936.57,Egypt,2024-04-23
+10757,Chair,Furniture,Furnishings,1997.57,4,215.48,Qatar,2021-03-04
+10758,Notebook,Office Supplies,Appliances,4147.95,2,913.95,Jordan,2025-07-14
+10759,Notebook,Technology,Phones,3949.18,10,1125.7,Saudi Arabia,2020-07-22
+10760,Desk,Technology,Copiers,3140.91,4,193.78,Qatar,2025-06-15
+10761,Printer,Furniture,Chairs,2497.68,3,324.48,Morocco,2020-11-02
+10762,Notebook,Furniture,Tables,4898.78,2,781.57,Morocco,2024-08-14
+10763,Desk,Furniture,Furnishings,767.58,17,210.94,Jordan,2020-01-14
+10764,Desk,Office Supplies,Binders,3639.52,13,1057.52,Kuwait,2025-02-03
+10765,Notebook,Furniture,Chairs,996.39,5,160.45,Oman,2025-05-15
+10766,Laptop,Technology,Copiers,1724.4,9,409.56,Saudi Arabia,2022-12-16
+10767,Printer,Technology,Machines,1578.06,6,288.65,Morocco,2021-12-23
+10768,Camera,Furniture,Chairs,4737.83,5,873.87,Oman,2022-02-18
+10769,Notebook,Furniture,Chairs,4838.41,10,578.31,Jordan,2023-05-18
+10770,Pen,Technology,Copiers,955.93,8,99.65,Morocco,2021-06-12
+10771,Pen,Office Supplies,Storage,159.07,7,19.41,Morocco,2022-03-08
+10772,Chair,Furniture,Tables,3614.04,7,683.35,Qatar,2020-12-09
+10773,Printer,Furniture,Furnishings,2119.05,6,121.4,Oman,2023-07-26
+10774,Desk,Technology,Machines,489.76,3,135.57,Qatar,2020-07-27
+10775,Tablet,Furniture,Bookcases,3434.58,19,305.92,Morocco,2021-10-02
+10776,Monitor,Office Supplies,Storage,2748.27,15,288.63,Oman,2023-08-04
+10777,Phone,Technology,Phones,4903.56,4,880.53,United Arab Emirates,2025-05-01
+10778,Tablet,Furniture,Furnishings,1175.68,12,267.5,Oman,2022-07-08
+10779,Printer,Technology,Accessories,2049.69,6,151.54,Qatar,2024-09-19
+10780,Printer,Furniture,Tables,2735.6,19,354.05,Saudi Arabia,2025-08-06
+10781,Notebook,Furniture,Tables,3968.91,4,1159.59,Jordan,2021-02-22
+10782,Notebook,Furniture,Chairs,2766.75,15,319.8,Jordan,2024-10-15
+10783,Tablet,Office Supplies,Art,3083.86,9,395.54,Kuwait,2023-10-20
+10784,Desk,Office Supplies,Appliances,1169.43,5,303.03,Saudi Arabia,2023-01-04
+10785,Chair,Technology,Machines,4242.25,13,265.37,Saudi Arabia,2024-03-25
+10786,Notebook,Furniture,Chairs,2171.72,18,360.84,Saudi Arabia,2022-12-06
+10787,Phone,Furniture,Chairs,747.75,5,108.35,Kuwait,2025-01-24
+10788,Phone,Office Supplies,Paper,3337.73,16,431.06,Saudi Arabia,2023-01-24
+10789,Chair,Furniture,Tables,1119.65,19,135.95,Egypt,2022-08-15
+10790,Laptop,Office Supplies,Appliances,532.93,14,38.82,Kuwait,2020-04-12
+10791,Laptop,Furniture,Furnishings,4316.84,16,555.61,Jordan,2023-03-15
+10792,Printer,Technology,Accessories,2327.8,15,141.44,Egypt,2025-03-18
+10793,Notebook,Furniture,Chairs,3758.95,4,921.85,Kuwait,2024-10-21
+10794,Pen,Furniture,Bookcases,1488.41,7,222.6,Morocco,2021-11-09
+10795,Tablet,Office Supplies,Binders,3945.5,16,635.13,Morocco,2025-05-22
+10796,Camera,Furniture,Bookcases,604.08,8,165.15,Jordan,2022-09-15
+10797,Chair,Furniture,Furnishings,1812.07,17,388.71,Morocco,2023-01-10
+10798,Printer,Office Supplies,Binders,4891.41,16,254.43,Saudi Arabia,2024-05-26
+10799,Pen,Technology,Machines,3980.25,10,1137.53,Kuwait,2024-02-11
+10800,Notebook,Technology,Copiers,2511.42,10,274.46,Egypt,2024-11-24
+10801,Pen,Office Supplies,Appliances,1731.9,2,133.19,Saudi Arabia,2023-03-31
+10802,Pen,Office Supplies,Appliances,4367.07,9,1056.97,Morocco,2022-07-20
+10803,Chair,Office Supplies,Paper,2747.0,17,481.05,Qatar,2023-11-26
+10804,Printer,Office Supplies,Storage,3804.2,11,602.75,Oman,2022-11-27
+10805,Desk,Office Supplies,Art,3782.83,10,425.1,Egypt,2025-06-01
+10806,Phone,Technology,Phones,138.83,17,25.94,Saudi Arabia,2025-08-04
+10807,Tablet,Technology,Copiers,674.96,4,80.05,Kuwait,2023-07-02
+10808,Printer,Office Supplies,Storage,3315.17,16,912.98,Jordan,2023-04-17
+10809,Camera,Furniture,Furnishings,850.02,15,88.23,Saudi Arabia,2021-08-16
+10810,Pen,Office Supplies,Paper,1314.69,5,356.4,Qatar,2023-11-22
+10811,Desk,Furniture,Chairs,4735.86,6,899.11,Morocco,2022-10-24
+10812,Chair,Office Supplies,Storage,2822.9,17,725.83,Egypt,2022-08-17
+10813,Monitor,Office Supplies,Appliances,3766.11,1,859.47,Jordan,2023-03-19
+10814,Tablet,Technology,Phones,2812.0,19,630.38,Egypt,2022-03-26
+10815,Tablet,Furniture,Chairs,2784.94,4,365.07,Jordan,2021-02-07
+10816,Phone,Furniture,Tables,516.05,17,55.98,Oman,2022-06-11
+10817,Monitor,Technology,Machines,1751.13,9,179.88,Kuwait,2020-03-08
+10818,Notebook,Technology,Copiers,1448.03,2,382.71,Egypt,2020-03-28
+10819,Monitor,Technology,Copiers,1984.11,8,506.16,Morocco,2025-08-10
+10820,Pen,Technology,Accessories,4001.8,15,640.86,Kuwait,2023-03-04
+10821,Pen,Furniture,Furnishings,1891.07,7,157.15,Kuwait,2024-09-16
+10822,Pen,Furniture,Bookcases,2285.9,6,332.74,Oman,2023-10-06
+10823,Pen,Office Supplies,Appliances,2017.04,1,413.16,Jordan,2024-07-01
+10824,Printer,Office Supplies,Storage,512.37,15,83.82,United Arab Emirates,2020-06-26
+10825,Tablet,Technology,Phones,2233.31,7,547.27,Egypt,2023-10-13
+10826,Monitor,Technology,Accessories,1018.27,17,304.88,Egypt,2022-06-26
+10827,Tablet,Technology,Phones,974.28,2,95.27,Saudi Arabia,2021-08-08
+10828,Camera,Office Supplies,Storage,515.48,9,85.01,Jordan,2022-09-16
+10829,Monitor,Office Supplies,Binders,1815.52,9,286.39,Qatar,2023-02-05
+10830,Printer,Office Supplies,Binders,3799.54,13,479.21,United Arab Emirates,2025-08-26
+10831,Camera,Office Supplies,Storage,1418.39,6,141.16,Morocco,2023-05-04
+10832,Tablet,Office Supplies,Appliances,1596.13,6,106.02,Saudi Arabia,2020-11-13
+10833,Camera,Office Supplies,Binders,3231.24,3,878.19,Oman,2024-02-11
+10834,Phone,Office Supplies,Art,1019.41,17,157.97,United Arab Emirates,2025-07-27
+10835,Camera,Technology,Accessories,4489.94,17,782.25,Jordan,2025-08-04
+10836,Monitor,Technology,Accessories,2624.94,12,732.98,United Arab Emirates,2021-05-17
+10837,Pen,Technology,Phones,2265.63,16,552.98,Oman,2025-07-15
+10838,Pen,Technology,Phones,2811.21,15,232.28,Kuwait,2020-04-28
+10839,Notebook,Office Supplies,Art,871.87,13,166.84,Egypt,2021-12-10
+10840,Tablet,Furniture,Bookcases,3086.69,1,495.61,Kuwait,2020-02-14
+10841,Phone,Office Supplies,Binders,1847.35,17,460.55,Egypt,2020-11-09
+10842,Monitor,Furniture,Furnishings,4491.07,3,1037.7,Saudi Arabia,2021-02-21
+10843,Monitor,Technology,Phones,885.83,15,197.19,Oman,2023-01-06
+10844,Chair,Office Supplies,Storage,2559.9,4,345.94,Jordan,2020-11-21
+10845,Laptop,Technology,Phones,3010.66,4,756.4,Jordan,2023-12-10
+10846,Tablet,Office Supplies,Paper,215.25,18,13.58,United Arab Emirates,2025-06-09
+10847,Monitor,Technology,Phones,1850.28,17,166.35,Saudi Arabia,2020-03-14
+10848,Desk,Furniture,Furnishings,3676.54,19,492.31,Jordan,2024-05-21
+10849,Monitor,Furniture,Bookcases,4110.87,11,284.48,Qatar,2021-05-23
+10850,Chair,Furniture,Tables,1600.15,3,174.01,Qatar,2021-11-18
+10851,Camera,Office Supplies,Art,4003.04,8,1030.93,Kuwait,2021-10-18
+10852,Printer,Furniture,Furnishings,4840.39,14,1389.5,Egypt,2024-03-22
+10853,Printer,Office Supplies,Appliances,4291.53,1,541.38,United Arab Emirates,2023-07-16
+10854,Desk,Furniture,Bookcases,632.34,14,73.43,Morocco,2023-10-31
+10855,Desk,Furniture,Furnishings,3711.67,2,445.3,Oman,2024-04-01
+10856,Notebook,Office Supplies,Storage,1632.35,4,194.95,Egypt,2022-12-11
+10857,Printer,Office Supplies,Binders,4942.66,19,291.53,Saudi Arabia,2020-11-20
+10858,Camera,Furniture,Chairs,2452.53,6,690.95,Jordan,2022-09-18
+10859,Printer,Office Supplies,Binders,656.05,1,67.85,Egypt,2025-06-16
+10860,Laptop,Furniture,Bookcases,3639.67,17,564.15,Morocco,2021-12-17
+10861,Tablet,Office Supplies,Art,1648.91,8,86.44,Morocco,2020-10-03
+10862,Printer,Technology,Machines,4985.54,19,1318.62,Qatar,2020-05-31
+10863,Pen,Technology,Copiers,4899.92,1,1140.65,Saudi Arabia,2022-08-12
+10864,Notebook,Technology,Accessories,3297.86,5,945.46,Egypt,2024-02-15
+10865,Chair,Technology,Phones,692.64,16,169.98,United Arab Emirates,2020-09-15
+10866,Desk,Technology,Phones,3449.96,6,443.07,Egypt,2022-05-18
+10867,Laptop,Furniture,Tables,510.5,8,57.16,Qatar,2023-04-06
+10868,Desk,Technology,Machines,195.35,13,43.84,Kuwait,2021-11-18
+10869,Notebook,Technology,Machines,4123.64,16,581.55,Morocco,2020-11-05
+10870,Monitor,Technology,Machines,1088.28,3,208.46,Saudi Arabia,2024-02-11
+10871,Laptop,Technology,Machines,1926.18,19,99.32,Saudi Arabia,2021-04-17
+10872,Phone,Office Supplies,Binders,4868.61,12,318.75,United Arab Emirates,2022-03-24
+10873,Laptop,Furniture,Furnishings,1717.36,16,315.72,Saudi Arabia,2022-04-25
+10874,Notebook,Technology,Copiers,1517.62,11,290.65,Qatar,2023-03-10
+10875,Chair,Technology,Machines,4595.13,10,1093.01,Qatar,2021-10-28
+10876,Laptop,Technology,Phones,598.2,4,49.65,Qatar,2024-12-13
+10877,Notebook,Furniture,Furnishings,3809.93,12,679.29,Saudi Arabia,2023-12-14
+10878,Camera,Office Supplies,Paper,4940.92,2,487.23,Saudi Arabia,2024-11-02
+10879,Tablet,Furniture,Tables,4511.42,19,330.68,Qatar,2023-06-18
+10880,Printer,Office Supplies,Paper,3275.76,5,499.96,Saudi Arabia,2020-12-20
+10881,Camera,Technology,Accessories,1604.6,8,145.75,Oman,2025-02-15
+10882,Notebook,Technology,Accessories,1308.89,7,138.02,Saudi Arabia,2025-07-17
+10883,Pen,Furniture,Furnishings,4105.31,14,531.18,Oman,2020-06-28
+10884,Monitor,Furniture,Bookcases,4405.12,3,505.92,Morocco,2020-03-06
+10885,Printer,Office Supplies,Binders,2650.9,18,190.59,Egypt,2022-03-30
+10886,Pen,Office Supplies,Binders,1259.48,16,91.29,Jordan,2023-10-03
+10887,Chair,Furniture,Tables,609.07,19,59.88,Oman,2020-06-19
+10888,Desk,Office Supplies,Appliances,481.54,19,30.16,Oman,2023-10-22
+10889,Phone,Furniture,Furnishings,3609.43,18,745.76,Saudi Arabia,2023-02-04
+10890,Printer,Office Supplies,Art,2129.59,16,259.45,Jordan,2022-04-14
+10891,Camera,Furniture,Bookcases,4531.53,8,543.5,Kuwait,2020-08-14
+10892,Monitor,Furniture,Bookcases,3711.37,1,493.61,Jordan,2021-03-17
+10893,Pen,Furniture,Furnishings,996.74,17,215.0,Morocco,2021-12-28
+10894,Notebook,Office Supplies,Appliances,3088.2,12,826.58,Oman,2024-05-23
+10895,Printer,Office Supplies,Art,2205.75,11,528.88,Saudi Arabia,2022-11-02
+10896,Desk,Office Supplies,Appliances,2907.39,5,674.17,Qatar,2025-01-06
+10897,Notebook,Furniture,Bookcases,3703.44,12,633.65,Jordan,2025-01-22
+10898,Pen,Office Supplies,Paper,4040.67,17,902.89,Saudi Arabia,2021-05-07
+10899,Monitor,Office Supplies,Storage,4226.5,6,795.39,United Arab Emirates,2024-03-28
+10900,Laptop,Furniture,Bookcases,1307.18,1,136.03,Kuwait,2023-02-17
+10901,Desk,Technology,Accessories,204.02,5,20.84,Qatar,2022-08-27
+10902,Notebook,Furniture,Bookcases,3709.51,14,460.34,United Arab Emirates,2025-09-18
+10903,Desk,Office Supplies,Binders,576.4,5,160.07,United Arab Emirates,2021-10-01
+10904,Chair,Furniture,Tables,1608.85,1,300.62,Jordan,2020-06-21
+10905,Notebook,Technology,Accessories,68.89,18,16.08,United Arab Emirates,2024-04-19
+10906,Printer,Furniture,Tables,3424.26,16,467.89,Morocco,2020-09-15
+10907,Laptop,Office Supplies,Appliances,877.3,9,133.29,Morocco,2021-05-31
+10908,Laptop,Technology,Machines,3293.65,19,268.07,Jordan,2021-06-06
+10909,Phone,Office Supplies,Paper,4959.13,5,460.32,Saudi Arabia,2025-04-01
+10910,Desk,Technology,Copiers,409.72,2,105.23,Egypt,2025-04-13
+10911,Camera,Technology,Phones,431.54,15,84.67,Saudi Arabia,2023-02-13
+10912,Laptop,Furniture,Chairs,1734.88,7,233.14,Saudi Arabia,2022-04-18
+10913,Laptop,Furniture,Bookcases,4338.61,4,1087.75,Saudi Arabia,2022-12-25
+10914,Chair,Office Supplies,Appliances,1116.87,1,124.68,Saudi Arabia,2022-12-29
+10915,Tablet,Furniture,Chairs,1833.87,13,539.17,Qatar,2025-05-23
+10916,Chair,Furniture,Bookcases,389.1,7,53.0,Egypt,2024-04-23
+10917,Chair,Technology,Machines,3827.62,15,514.16,Qatar,2024-04-29
+10918,Tablet,Furniture,Furnishings,2071.12,14,265.06,United Arab Emirates,2023-01-19
+10919,Desk,Technology,Accessories,3808.28,19,306.67,Kuwait,2022-01-19
+10920,Notebook,Technology,Copiers,4522.86,18,351.81,Saudi Arabia,2022-12-29
+10921,Monitor,Technology,Accessories,1202.18,10,254.89,Kuwait,2023-04-04
+10922,Camera,Office Supplies,Art,4046.61,9,1087.65,Morocco,2025-02-18
+10923,Laptop,Office Supplies,Storage,342.51,8,84.82,Jordan,2024-11-22
+10924,Phone,Office Supplies,Storage,4499.29,10,383.69,Jordan,2024-05-26
+10925,Camera,Technology,Copiers,3271.3,17,609.76,Qatar,2020-02-18
+10926,Notebook,Office Supplies,Paper,4377.42,2,334.43,Qatar,2022-12-11
+10927,Tablet,Office Supplies,Art,50.93,6,3.12,Morocco,2023-08-05
+10928,Camera,Furniture,Furnishings,886.95,5,189.89,Saudi Arabia,2024-07-07
+10929,Laptop,Office Supplies,Art,1979.31,9,363.77,Kuwait,2023-04-04
+10930,Camera,Office Supplies,Appliances,1928.54,5,135.97,Oman,2023-10-29
+10931,Monitor,Technology,Phones,1172.32,18,68.86,Kuwait,2025-01-02
+10932,Tablet,Technology,Copiers,1938.98,9,576.73,Egypt,2021-04-23
+10933,Camera,Technology,Machines,687.8,17,39.55,United Arab Emirates,2022-04-11
+10934,Laptop,Technology,Phones,2093.17,17,337.28,Jordan,2024-06-02
+10935,Laptop,Technology,Copiers,4021.65,12,708.43,United Arab Emirates,2021-11-12
+10936,Camera,Technology,Machines,2421.4,7,192.07,Egypt,2023-08-16
+10937,Desk,Office Supplies,Storage,139.1,3,12.83,Qatar,2020-03-22
+10938,Phone,Technology,Phones,2136.15,10,294.68,Kuwait,2020-03-27
+10939,Pen,Technology,Phones,184.52,2,44.36,Jordan,2025-08-25
+10940,Chair,Furniture,Bookcases,4832.9,3,854.31,United Arab Emirates,2022-04-01
+10941,Tablet,Office Supplies,Storage,680.9,16,142.63,Oman,2020-06-11
+10942,Pen,Office Supplies,Paper,3553.06,2,1052.75,Qatar,2025-04-16
+10943,Notebook,Office Supplies,Binders,4865.24,10,1177.39,Egypt,2025-01-24
+10944,Notebook,Technology,Machines,4138.89,6,656.39,Oman,2025-02-03
+10945,Laptop,Technology,Accessories,3511.61,11,567.51,United Arab Emirates,2023-01-20
+10946,Notebook,Technology,Copiers,4205.33,7,860.8,Oman,2025-02-25
+10947,Desk,Furniture,Tables,4909.9,15,1062.21,Kuwait,2022-07-11
+10948,Phone,Technology,Phones,3125.66,6,547.55,Saudi Arabia,2023-12-20
+10949,Notebook,Furniture,Bookcases,2817.96,9,595.2,Oman,2024-05-01
+10950,Monitor,Office Supplies,Paper,3159.78,12,176.58,Qatar,2021-07-18
+10951,Phone,Technology,Phones,2686.75,19,422.91,Egypt,2021-04-15
+10952,Desk,Furniture,Furnishings,3193.69,3,382.39,United Arab Emirates,2022-09-14
+10953,Pen,Furniture,Furnishings,2276.72,15,187.36,Kuwait,2025-04-18
+10954,Phone,Technology,Accessories,1131.29,2,84.72,Saudi Arabia,2020-08-11
+10955,Phone,Office Supplies,Art,645.22,2,129.56,Saudi Arabia,2020-12-16
+10956,Pen,Office Supplies,Storage,388.29,3,70.24,Egypt,2025-04-12
+10957,Desk,Office Supplies,Art,1353.41,6,153.47,Morocco,2020-12-14
+10958,Notebook,Furniture,Tables,278.31,15,46.68,Kuwait,2020-06-30
+10959,Laptop,Furniture,Chairs,2857.5,10,494.51,Kuwait,2021-09-28
+10960,Tablet,Furniture,Chairs,1454.95,9,143.68,Jordan,2022-10-14
+10961,Pen,Furniture,Chairs,4131.45,1,880.09,Egypt,2022-02-10
+10962,Pen,Office Supplies,Appliances,417.49,16,102.38,Saudi Arabia,2022-10-12
+10963,Pen,Technology,Machines,1170.44,6,290.11,Saudi Arabia,2025-10-12
+10964,Pen,Furniture,Bookcases,3664.72,9,735.21,Oman,2020-01-29
+10965,Tablet,Furniture,Bookcases,3014.1,4,536.24,Egypt,2025-03-08
+10966,Tablet,Office Supplies,Binders,369.23,2,24.09,Morocco,2024-01-05
+10967,Notebook,Technology,Machines,4392.34,4,535.68,Jordan,2023-05-11
+10968,Camera,Technology,Copiers,4392.45,1,322.05,United Arab Emirates,2025-08-30
+10969,Camera,Office Supplies,Storage,1685.52,19,490.41,Egypt,2023-01-30
+10970,Printer,Office Supplies,Appliances,1735.01,10,145.34,Jordan,2020-03-06
+10971,Pen,Technology,Machines,4945.69,15,434.94,Kuwait,2023-02-08
+10972,Pen,Furniture,Furnishings,3149.57,19,857.92,Jordan,2020-12-03
+10973,Phone,Technology,Phones,2680.02,16,766.44,Oman,2024-09-24
+10974,Camera,Office Supplies,Art,4198.85,4,1013.84,Qatar,2021-03-22
+10975,Notebook,Furniture,Tables,1462.19,2,75.09,Saudi Arabia,2020-10-07
+10976,Laptop,Furniture,Bookcases,2174.45,13,109.45,Oman,2021-08-18
+10977,Printer,Office Supplies,Art,1375.49,1,198.79,United Arab Emirates,2025-06-09
+10978,Printer,Office Supplies,Paper,3956.35,17,339.65,Egypt,2022-12-10
+10979,Notebook,Office Supplies,Paper,2888.08,13,157.68,Oman,2020-07-28
+10980,Laptop,Technology,Accessories,3311.18,4,549.71,Saudi Arabia,2020-05-05
+10981,Phone,Technology,Machines,1298.92,7,371.19,Qatar,2021-05-06
+10982,Tablet,Furniture,Furnishings,1140.12,17,149.3,Oman,2022-08-27
+10983,Chair,Office Supplies,Art,2467.45,9,531.21,Qatar,2021-08-03
+10984,Camera,Furniture,Chairs,3700.95,4,788.52,Oman,2023-04-26
+10985,Pen,Furniture,Tables,2649.94,19,298.83,Saudi Arabia,2020-08-17
+10986,Notebook,Furniture,Furnishings,211.6,1,44.99,Morocco,2020-07-07
+10987,Camera,Furniture,Chairs,4349.33,10,448.34,Jordan,2025-08-19
+10988,Pen,Office Supplies,Art,370.2,4,29.8,Egypt,2021-05-16
+10989,Chair,Furniture,Bookcases,4781.33,9,1077.45,Egypt,2020-02-18
+10990,Chair,Office Supplies,Appliances,174.45,13,13.67,Egypt,2021-11-19
+10991,Tablet,Office Supplies,Appliances,3487.53,14,1043.56,Saudi Arabia,2021-01-21
+10992,Desk,Technology,Accessories,456.92,10,43.8,Kuwait,2022-08-27
+10993,Chair,Office Supplies,Storage,4557.85,6,904.89,Morocco,2022-10-02
+10994,Camera,Technology,Machines,2348.94,16,359.02,United Arab Emirates,2024-09-20
+10995,Monitor,Office Supplies,Appliances,730.74,6,59.63,Qatar,2025-06-27
+10996,Monitor,Office Supplies,Paper,1737.04,17,98.94,Saudi Arabia,2024-05-26
+10997,Pen,Office Supplies,Appliances,865.88,10,178.1,Kuwait,2024-11-24
+10998,Pen,Technology,Accessories,894.38,18,225.11,United Arab Emirates,2020-09-27
+10999,Desk,Technology,Accessories,4743.14,18,1235.61,Qatar,2020-05-02
+11000,Monitor,Furniture,Furnishings,2253.97,3,384.7,Qatar,2023-07-04
